@@ -1,0 +1,3662 @@
+{
+  "book": {
+    "title": "Pharmacology in Rehabilitation",
+    "author": "Charles D. Ciccone",
+    "edition": 5,
+    "year": 2016,
+    "chapterCount": 38,
+    "pdfOffset": 30,
+    "source": "User-provided fifth-edition PDF",
+    "note": "Original educational summaries aligned with the supplied fifth edition. Not a replacement for the full text or current clinical guidance. No patient-specific diagnosis, dosing, or medication changes."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Basic Principles of Pharmacology",
+      "section": "Foundations",
+      "day": 1,
+      "pages": [
+        3,
+        14
+      ],
+      "pdfPages": [
+        33,
+        44
+      ],
+      "minutes": 22,
+      "focus": "Explain a drug response before memorizing a drug list.",
+      "points": [
+        "Pharmacodynamics describes what a drug does to the body; pharmacokinetics describes how the body handles it.",
+        "A generic name identifies the active drug; several brand names can refer to the same ingredient. Reconcile ingredients to avoid accidental duplication.",
+        "Potency is the dose needed for an effect. Efficacy is the maximum effect achievable. A more potent drug is not necessarily more effective.",
+        "Dose-response curves connect dose with response. A ceiling means increasing dose no longer adds the desired effect, although toxicity may increase.",
+        "The therapeutic index compares toxic and effective doses. A narrow therapeutic margin means small exposure changes can matter.",
+        "Preclinical work and clinical trial phases examine safety and effectiveness; approval does not eliminate the need for adverse-effect monitoring. Prescription, OTC, and controlled status describe different regulatory questions."
+      ],
+      "drugs": [
+        {
+          "class": "Generic vs brand",
+          "examples": "Acetaminophen; multiple trade names",
+          "mechanism": "One active ingredient may have many labels",
+          "watch": "Check combination products"
+        },
+        {
+          "class": "Dose-response concepts",
+          "examples": "ED50; TD50; therapeutic index",
+          "mechanism": "Compare effective and toxic exposure",
+          "watch": "Population averages do not guarantee individual safety"
+        }
+      ],
+      "rehab": [
+        "Obtain a complete medication and supplement history, including PRN products.",
+        "Connect a new symptom to medication changes as well as the underlying disease.",
+        "Document functional changes and communicate concerns without independently changing prescriptions."
+      ],
+      "trap": "Potency is not the same as efficacy or safety.",
+      "flashcards": [
+        {
+          "front": "What is pharmacodynamics?",
+          "back": "The actions and effects of a drug on the body."
+        },
+        {
+          "front": "What does potency compare?",
+          "back": "The dose or concentration required to produce a specified effect."
+        },
+        {
+          "front": "Why does a narrow therapeutic index matter?",
+          "back": "A relatively small exposure change may move a patient from benefit toward toxicity."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "A left-shifted dose-response curve with the same maximum primarily indicates what?",
+          "answer": "Greater potency",
+          "distractors": [
+            "Greater maximum efficacy",
+            "Absence of toxicity",
+            "Slower renal excretion"
+          ],
+          "rationale": "Less drug is needed for the same effect; the unchanged maximum does not show greater efficacy."
+        },
+        {
+          "question": "Two products have different brand names but the same generic ingredient. What is the main concern?",
+          "answer": "Duplicate exposure",
+          "distractors": [
+            "Guaranteed therapeutic failure",
+            "Different receptor families",
+            "No possibility of interaction"
+          ],
+          "rationale": "Brand differences do not prevent the same ingredient from being taken twice."
+        }
+      ],
+      "case": {
+        "scenario": "A learner assumes the lowest-dose analgesic is always the safest.",
+        "question": "Which two distinctions are missing?",
+        "answer": "Separate potency from efficacy, then evaluate adverse effects and the therapeutic margin. Dose size alone cannot establish safety."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pharmacokinetics I: Administration, Absorption, and Distribution",
+      "section": "Foundations",
+      "day": 1,
+      "pages": [
+        15,
+        30
+      ],
+      "pdfPages": [
+        45,
+        60
+      ],
+      "minutes": 22,
+      "focus": "Trace how an administered dose reaches its target.",
+      "points": [
+        "Route changes onset, bioavailability, convenience, and risk. IV administration enters the circulation directly; oral dosing must first be absorbed.",
+        "Oral drugs may undergo first-pass metabolism in the gut wall and liver. Sublingual and transdermal routes can avoid much of this initial hepatic passage.",
+        "Membrane movement depends on lipid solubility, ionization, concentration gradients, transporters, and tissue barriers.",
+        "Bioavailability is the fraction of the dose reaching systemic circulation unchanged; it is not simply how fast a drug works.",
+        "Only unbound drug can readily leave plasma and interact with many targets. Protein binding can create a reservoir and influence interactions.",
+        "Distribution depends on perfusion, permeability, binding, and body composition. Apparent volume of distribution relates body drug amount to plasma concentration.",
+        "Fat, bone, and other tissues may store drugs and prolong effects. Controlled-release products, implanted pumps, prodrugs, and targeted delivery alter exposure patterns."
+      ],
+      "drugs": [
+        {
+          "class": "Enteral routes",
+          "examples": "Oral; buccal; sublingual",
+          "mechanism": "Absorption through GI or oral mucosa",
+          "watch": "First-pass exposure differs by route"
+        },
+        {
+          "class": "Parenteral and topical routes",
+          "examples": "IV; IM; transdermal",
+          "mechanism": "Delivery without conventional swallowed absorption",
+          "watch": "Onset and local tissue effects vary"
+        },
+        {
+          "class": "Distribution",
+          "examples": "Albumin binding; tissue storage",
+          "mechanism": "Partitioning between plasma and tissues",
+          "watch": "Low albumin may alter unbound exposure"
+        }
+      ],
+      "rehab": [
+        "Ask about route and formulation, not just the drug name.",
+        "Heat and exercise can alter skin and muscle perfusion, potentially changing absorption from local delivery sites.",
+        "Do not assume a patch has only local effects or that a tablet can be crushed safely."
+      ],
+      "trap": "Bioavailability, onset, and volume of distribution describe different properties.",
+      "flashcards": [
+        {
+          "front": "Which route has complete systemic bioavailability by definition?",
+          "back": "Intravenous administration."
+        },
+        {
+          "front": "What is first-pass metabolism?",
+          "back": "Presystemic metabolism before an absorbed dose reaches the general circulation."
+        },
+        {
+          "front": "What does a large apparent volume of distribution suggest?",
+          "back": "Much of the drug is outside the plasma relative to its measured plasma concentration."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which route bypasses an absorption step into systemic circulation?",
+          "answer": "Intravenous",
+          "distractors": [
+            "Oral",
+            "Intramuscular",
+            "Transdermal"
+          ],
+          "rationale": "IV dosing enters the bloodstream directly; the other routes require absorption."
+        },
+        {
+          "question": "Which fraction most readily crosses out of plasma to act at many targets?",
+          "answer": "Unbound drug",
+          "distractors": [
+            "Albumin-bound drug only",
+            "All drug stored in bone",
+            "Only drug already excreted"
+          ],
+          "rationale": "Protein binding retains a portion within plasma; unbound drug is available for distribution."
+        }
+      ],
+      "case": {
+        "scenario": "A patient uses a transdermal analgesic patch and requests a hot pack over it.",
+        "question": "What principle should guide the response?",
+        "answer": "Local heating can change absorption and systemic exposure. Check the product instructions and coordinate the treatment plan before applying heat near a drug delivery site."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Pharmacokinetics II: Drug Elimination",
+      "section": "Foundations",
+      "day": 1,
+      "pages": [
+        31,
+        42
+      ],
+      "pdfPages": [
+        61,
+        72
+      ],
+      "minutes": 22,
+      "focus": "Predict accumulation and interactions from clearance.",
+      "points": [
+        "Elimination combines metabolism and excretion. The liver is a major metabolic organ and the kidneys are major excretory organs.",
+        "Phase I reactions commonly modify a molecule; phase II reactions conjugate it. Metabolites may be inactive, active, or toxic.",
+        "CYP enzyme induction often lowers concentrations of susceptible active drugs; inhibition often raises them. Prodrugs can behave differently because activation may be reduced.",
+        "Renal elimination includes filtration, secretion, and reabsorption. Reduced renal function can prolong drug exposure.",
+        "Half-life is the time for concentration to fall by half in a first-order model. Repeated dosing usually approaches steady state over about four to five half-lives.",
+        "Clearance is the volume of plasma cleared of drug per unit time. With first-order kinetics, half-life is proportional to volume of distribution divided by clearance.",
+        "Age, genetic variation, disease, smoking, diet, and interacting drugs can change elimination. A loading dose and a maintenance dose address different pharmacokinetic needs."
+      ],
+      "drugs": [
+        {
+          "class": "Metabolic interactions",
+          "examples": "Enzyme inducers and inhibitors",
+          "mechanism": "Change metabolism of susceptible drugs",
+          "watch": "Direction depends on active drug vs prodrug"
+        },
+        {
+          "class": "Renal elimination",
+          "examples": "Filtration; secretion; reabsorption",
+          "mechanism": "Removes drug and metabolites",
+          "watch": "Accumulation with impaired clearance"
+        }
+      ],
+      "rehab": [
+        "New sedation, confusion, or ataxia after illness may reflect accumulation rather than loss of motivation.",
+        "Flag major hydration, liver, or kidney changes to the care team.",
+        "Interpret drug timing alongside half-life and repeated dosing; effects may persist beyond the last dose."
+      ],
+      "trap": "A half-life does not mean the drug is completely gone after that interval.",
+      "flashcards": [
+        {
+          "front": "How much remains after two first-order half-lives?",
+          "back": "About one quarter of the starting concentration."
+        },
+        {
+          "front": "What generally happens when clearance falls and dose stays unchanged?",
+          "back": "Exposure and risk of accumulation can increase."
+        },
+        {
+          "front": "How long does a typical first-order regimen take to approach steady state?",
+          "back": "Approximately four to five half-lives."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "After three half-lives, approximately what fraction remains?",
+          "answer": "One eighth",
+          "distractors": [
+            "One half",
+            "Three quarters",
+            "None"
+          ],
+          "rationale": "Each half-life halves the previous amount: 1/2, 1/4, then 1/8."
+        },
+        {
+          "question": "An enzyme inhibitor is added to an active CYP-metabolized drug. What is a possible consequence?",
+          "answer": "Increased drug exposure",
+          "distractors": [
+            "Guaranteed faster excretion",
+            "No interaction is possible",
+            "Immediate loss of all receptor binding"
+          ],
+          "rationale": "Reduced metabolism can increase exposure, although the specific interaction must be checked."
+        }
+      ],
+      "case": {
+        "scenario": "An older patient becomes progressively drowsy on an unchanged medication regimen after a decline in kidney function.",
+        "question": "What is the pharmacokinetic concern?",
+        "answer": "Reduced clearance may allow accumulation. Record the change and request medication review; do not assume the stable prescribed dose produces stable exposure."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Drug Receptors",
+      "section": "Foundations",
+      "day": 1,
+      "pages": [
+        43,
+        56
+      ],
+      "pdfPages": [
+        73,
+        86
+      ],
+      "minutes": 22,
+      "focus": "Connect receptor behavior with benefit, blockade, and tolerance.",
+      "points": [
+        "Receptors recognize specific ligands and translate binding into a cellular response. They may be on the cell surface or inside the cell.",
+        "Ligand-gated ion channels act through membrane permeability; G-protein pathways use intracellular signaling; enzyme-linked and intracellular receptors use other mechanisms.",
+        "Affinity describes binding tendency; intrinsic activity describes the ability to activate a receptor after binding.",
+        "A full agonist produces a maximal response; a partial agonist has lower intrinsic activity and can limit a full agonist when both compete.",
+        "Competitive antagonism can often be overcome by more agonist. Noncompetitive or irreversible antagonism can reduce the available maximum response.",
+        "An inverse agonist reduces constitutive receptor activity; it is different from a neutral antagonist.",
+        "Repeated stimulation can cause desensitization or down-regulation. Prolonged blockade or denervation can produce supersensitivity."
+      ],
+      "drugs": [
+        {
+          "class": "Agonists",
+          "examples": "Full; partial; inverse",
+          "mechanism": "Differ in receptor activation after binding",
+          "watch": "Binding alone does not predict response"
+        },
+        {
+          "class": "Antagonists",
+          "examples": "Competitive; noncompetitive",
+          "mechanism": "Reduce agonist effects by different mechanisms",
+          "watch": "Maximum response may or may not be preserved"
+        }
+      ],
+      "rehab": [
+        "Receptor adaptation helps explain tolerance and rebound after abrupt withdrawal.",
+        "Different receptor subtypes create both therapeutic selectivity and off-target effects.",
+        "Do not interpret loss of effect as an automatic indication to increase a dose."
+      ],
+      "trap": "An antagonist has affinity, but does not activate the receptor as an agonist does.",
+      "flashcards": [
+        {
+          "front": "What is affinity?",
+          "back": "The tendency of a ligand to bind a receptor."
+        },
+        {
+          "front": "How can a partial agonist oppose a full agonist?",
+          "back": "It occupies receptors while producing a smaller response."
+        },
+        {
+          "front": "What is down-regulation?",
+          "back": "A reduction in receptor availability or expression after sustained stimulation."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which property distinguishes an agonist from a neutral antagonist?",
+          "answer": "Intrinsic activating ability",
+          "distractors": [
+            "Ability to enter a tablet",
+            "Generic naming",
+            "Renal filtration alone"
+          ],
+          "rationale": "Both can bind, but an agonist activates the receptor."
+        },
+        {
+          "question": "Which adaptation can follow prolonged receptor blockade?",
+          "answer": "Supersensitivity",
+          "distractors": [
+            "Permanent elimination of all receptors",
+            "Guaranteed drug tolerance through induction",
+            "Loss of every endogenous ligand"
+          ],
+          "rationale": "Compensatory increases in receptor number or responsiveness can increase sensitivity."
+        }
+      ],
+      "case": {
+        "scenario": "A drug works less well after repeated exposure.",
+        "question": "Is receptor down-regulation the only explanation?",
+        "answer": "No. Receptor adaptation is one mechanism; altered metabolism, disease progression, adherence, and other causes also require consideration."
+      }
+    },
+    {
+      "id": 5,
+      "title": "General Principles of CNS Pharmacology",
+      "section": "Central nervous system",
+      "day": 1,
+      "pages": [
+        59,
+        68
+      ],
+      "pdfPages": [
+        89,
+        98
+      ],
+      "minutes": 22,
+      "focus": "Map neurotransmission to cognition, behavior, and movement.",
+      "points": [
+        "The CNS integrates cognition, sensation, movement, and autonomic control. Drug effects depend on the neural pathways and receptors involved.",
+        "The blood-brain barrier limits CNS access; lipid solubility and transport systems influence entry and removal.",
+        "Synaptic transmission involves transmitter synthesis, storage, release, receptor activation, and signal termination.",
+        "Drugs may change transmitter synthesis or release, mimic or block receptors, or inhibit reuptake or enzymatic breakdown.",
+        "Glutamate is a major excitatory transmitter; GABA and glycine commonly mediate inhibition. The receptor and circuit determine the actual response.",
+        "Dopamine, serotonin, norepinephrine, acetylcholine, and neuropeptides influence multiple overlapping functions; one transmitter does not equal one behavior."
+      ],
+      "drugs": [
+        {
+          "class": "Inhibitory transmission",
+          "examples": "GABA; glycine",
+          "mechanism": "Often reduces neuronal excitability",
+          "watch": "Excess inhibition can impair alertness"
+        },
+        {
+          "class": "Modulatory transmission",
+          "examples": "Dopamine; serotonin; norepinephrine",
+          "mechanism": "Changes signaling across CNS circuits",
+          "watch": "Motor and behavioral effects can coexist"
+        }
+      ],
+      "rehab": [
+        "Observe attention, memory, coordination, and motor learning as well as symptom relief.",
+        "Sedation can impair retention of a new mobility skill even when a patient appears calm.",
+        "Relate changes in participation to the timing of CNS medications."
+      ],
+      "trap": "A neurotransmitter can produce different effects at different receptor subtypes.",
+      "flashcards": [
+        {
+          "front": "What limits many drugs from entering the brain?",
+          "back": "The blood-brain barrier and its transport systems."
+        },
+        {
+          "front": "Name two ways to prolong transmitter action.",
+          "back": "Inhibit reuptake or inhibit enzymatic breakdown."
+        },
+        {
+          "front": "Why can a CNS drug affect both movement and mood?",
+          "back": "The same transmitter systems participate in multiple neural circuits."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Inhibiting transmitter reuptake usually does what at that synapse?",
+          "answer": "Prolongs transmitter availability",
+          "distractors": [
+            "Stops all transmitter synthesis",
+            "Removes every postsynaptic receptor",
+            "Guarantees a purely inhibitory response"
+          ],
+          "rationale": "Less reuptake can increase synaptic availability; the resulting effect depends on receptors."
+        },
+        {
+          "question": "Which observation is most relevant to motor-learning carryover?",
+          "answer": "Attention and memory",
+          "distractors": [
+            "Brand color",
+            "Package size",
+            "Tablet shape alone"
+          ],
+          "rationale": "Attention and memory determine whether instruction is retained between sessions."
+        }
+      ],
+      "case": {
+        "scenario": "A patient follows instructions during therapy but cannot recall them the next morning after starting a CNS medication.",
+        "question": "What should be assessed?",
+        "answer": "Consider medication-related effects on attention and memory, compare timing and baseline function, and communicate the change to the care team."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sedative-Hypnotic and Antianxiety Drugs",
+      "section": "Central nervous system",
+      "day": 2,
+      "pages": [
+        69,
+        82
+      ],
+      "pdfPages": [
+        99,
+        112
+      ],
+      "minutes": 22,
+      "focus": "Distinguish anxiolysis from impairment.",
+      "points": [
+        "Benzodiazepines enhance GABA-A-mediated inhibition and can provide anxiolysis, sedation, hypnosis, anticonvulsant effects, and muscle relaxation.",
+        "Barbiturates also enhance inhibition but have a less favorable safety profile and important interactions.",
+        "Zolpidem, zaleplon, and eszopiclone act at the GABA-A receptor complex; ramelteon acts at melatonin receptors.",
+        "Buspirone acts through serotonergic mechanisms and does not provide immediate benzodiazepine-like relief. Some antidepressants also treat anxiety.",
+        "Residual next-day sedation, impaired memory, ataxia, and slower reactions can interfere with rehabilitation.",
+        "Dependence and withdrawal are distinct from symptom relief. Abrupt withdrawal after sustained use can be hazardous.",
+        "Combining CNS depressants can intensify sedation and respiratory impairment. Sleep hygiene and behavioral measures remain relevant."
+      ],
+      "drugs": [
+        {
+          "class": "Benzodiazepines",
+          "examples": "Diazepam; lorazepam; temazepam",
+          "mechanism": "Enhance GABA-A effects",
+          "watch": "Sedation, falls, dependence"
+        },
+        {
+          "class": "Other hypnotics",
+          "examples": "Zolpidem; ramelteon",
+          "mechanism": "GABA-A modulation or melatonin receptor activation",
+          "watch": "Residual impairment; agent-specific sleep behaviors"
+        },
+        {
+          "class": "Nonbenzodiazepine anxiolytic",
+          "examples": "Buspirone",
+          "mechanism": "Serotonergic activity",
+          "watch": "Delayed benefit; dizziness"
+        }
+      ],
+      "rehab": [
+        "Assess wakefulness and balance before transfers or gait training.",
+        "Schedule demanding learning when residual sedation is lowest, in coordination with the team.",
+        "Do not interpret reduced anxiety as proof that the patient can safely perform unsupervised mobility."
+      ],
+      "trap": "A nonbenzodiazepine label does not mean an absence of sedation or fall risk.",
+      "flashcards": [
+        {
+          "front": "What receptor system do benzodiazepines enhance?",
+          "back": "GABA-A-mediated inhibitory transmission."
+        },
+        {
+          "front": "Why may a bedtime hypnotic affect morning therapy?",
+          "back": "Long duration or active metabolites can cause residual impairment."
+        },
+        {
+          "front": "Does buspirone act as immediate rescue sedation?",
+          "back": "No; its anxiolytic benefit develops over time."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which finding most directly suggests residual hypnotic impairment?",
+          "answer": "Morning drowsiness and poor recall",
+          "distractors": [
+            "Improved visual acuity",
+            "New bone formation",
+            "Increased platelet production"
+          ],
+          "rationale": "Sedation and memory impairment can persist into the next day."
+        },
+        {
+          "question": "Which combination raises concern for additive CNS depression?",
+          "answer": "A benzodiazepine with an opioid",
+          "distractors": [
+            "A benzodiazepine with a label change",
+            "Buspirone with a notebook",
+            "Ramelteon with a gait belt"
+          ],
+          "rationale": "Both a benzodiazepine and an opioid can suppress CNS function."
+        }
+      ],
+      "case": {
+        "scenario": "A patient is very drowsy during morning transfer training after a long-acting sleep drug.",
+        "question": "What is the study takeaway?",
+        "answer": "Residual sedation can impair safety and learning. Assess alertness, protect mobility, document the pattern, and coordinate medication and session timing with the team."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Drugs for Depression and Bipolar Disorder",
+      "section": "Central nervous system",
+      "day": 2,
+      "pages": [
+        83,
+        100
+      ],
+      "pdfPages": [
+        113,
+        130
+      ],
+      "minutes": 22,
+      "focus": "Compare antidepressant mechanisms and mood-stabilizer monitoring.",
+      "points": [
+        "SSRIs inhibit serotonin reuptake; SNRIs inhibit serotonin and norepinephrine reuptake. Clinical mood improvement is delayed relative to the initial synaptic effect.",
+        "Tricyclic antidepressants have anticholinergic, sedating, orthostatic, and cardiac effects in addition to monoamine reuptake inhibition.",
+        "MAO inhibitors reduce monoamine breakdown and have important food and drug interactions.",
+        "Lithium is a mood stabilizer with a narrow therapeutic range. Hydration, sodium balance, kidney function, and interacting drugs affect toxicity risk.",
+        "Some anticonvulsants and atypical antipsychotics also have roles in bipolar disorder.",
+        "Watch for tremor, ataxia, confusion, marked behavioral change, and problems with thermoregulation or orthostatic tolerance.",
+        "Improved mood can improve participation, but pain treatment with an antidepressant does not by itself establish a psychiatric diagnosis."
+      ],
+      "drugs": [
+        {
+          "class": "SSRIs and SNRIs",
+          "examples": "Fluoxetine; sertraline; venlafaxine",
+          "mechanism": "Reduce monoamine reuptake",
+          "watch": "GI effects; agent-specific activation or sedation"
+        },
+        {
+          "class": "Older antidepressants",
+          "examples": "Amitriptyline; phenelzine",
+          "mechanism": "Reuptake inhibition or MAO inhibition",
+          "watch": "Orthostasis; anticholinergic effects; interactions"
+        },
+        {
+          "class": "Mood stabilizer",
+          "examples": "Lithium",
+          "mechanism": "Multiple effects on intracellular and neuronal signaling",
+          "watch": "Narrow margin; renal and fluid-balance sensitivity"
+        }
+      ],
+      "rehab": [
+        "Check postural symptoms and cognition when progressing mobility.",
+        "Report new tremor, coordination problems, or confusion in a patient taking lithium.",
+        "Discuss heat exposure, hydration changes, and exercise tolerance with the supervising team."
+      ],
+      "trap": "The rapid change in neurotransmitter availability does not imply immediate antidepressant benefit.",
+      "flashcards": [
+        {
+          "front": "Why can a tricyclic increase fall risk?",
+          "back": "Sedation and orthostatic hypotension can impair safe mobility."
+        },
+        {
+          "front": "Why does hydration matter with lithium?",
+          "back": "Fluid and sodium changes can affect renal handling and concentration."
+        },
+        {
+          "front": "Can antidepressants be used for pain?",
+          "back": "Yes; some are used in selected pain syndromes as well as mood disorders."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug requires particular attention to sodium and fluid balance?",
+          "answer": "Lithium",
+          "distractors": [
+            "Topical miconazole",
+            "Inhaled cromolyn",
+            "A calcium-containing antacid alone"
+          ],
+          "rationale": "Lithium handling is sensitive to kidney function and sodium-water balance."
+        },
+        {
+          "question": "Which effect can make tricyclic therapy relevant during standing practice?",
+          "answer": "Orthostatic hypotension",
+          "distractors": [
+            "Guaranteed increased bone density",
+            "Selective paralysis",
+            "Immediate antibiotic resistance"
+          ],
+          "rationale": "Postural blood-pressure drops can cause dizziness and falls."
+        }
+      ],
+      "case": {
+        "scenario": "A patient taking lithium develops new coarse tremor and unsteady walking during a hot week.",
+        "question": "What concern should be communicated?",
+        "answer": "Possible toxicity or altered exposure related to fluid balance requires prompt medical review; the therapist should document findings and avoid treating this as routine deconditioning."
+      }
+    },
+    {
+      "id": 8,
+      "title": "Antipsychotic Drugs",
+      "section": "Central nervous system",
+      "day": 2,
+      "pages": [
+        101,
+        114
+      ],
+      "pdfPages": [
+        131,
+        144
+      ],
+      "minutes": 22,
+      "focus": "Recognize medication-related movement disorders.",
+      "points": [
+        "Antipsychotics reduce psychotic symptoms and may improve organized behavior, self-care, and cooperation.",
+        "Many traditional agents prominently block dopamine D2 receptors; atypical agents have differing dopamine and serotonin actions.",
+        "Dopamine pathway effects can cause acute dystonia, akathisia, parkinsonism, and tardive dyskinesia. Their patterns and timing differ.",
+        "Tardive dyskinesia may involve repetitive mouth, tongue, facial, or limb movements and can persist after treatment changes.",
+        "Sedation, anticholinergic effects, orthostatic hypotension, and metabolic effects vary by agent.",
+        "Fever, severe rigidity, altered mental status, and autonomic instability raise concern for neuroleptic malignant syndrome and require emergency escalation.",
+        "Do not assume every new motor symptom represents progression of the primary neurological condition."
+      ],
+      "drugs": [
+        {
+          "class": "Traditional antipsychotics",
+          "examples": "Haloperidol; chlorpromazine",
+          "mechanism": "Prominent dopamine receptor antagonism",
+          "watch": "Extrapyramidal effects and orthostasis"
+        },
+        {
+          "class": "Atypical antipsychotics",
+          "examples": "Clozapine; risperidone; olanzapine",
+          "mechanism": "Differing dopamine and serotonin effects",
+          "watch": "Agent-specific metabolic and other serious effects"
+        }
+      ],
+      "rehab": [
+        "Observe posture, gait, restlessness, and involuntary movements over time.",
+        "Guard against postural hypotension during early treatment or dose changes.",
+        "Escalate acute rigidity with fever or altered consciousness immediately through the facility emergency process."
+      ],
+      "trap": "Akathisia is not simply poor cooperation, and tardive dyskinesia is not ordinary tremor.",
+      "flashcards": [
+        {
+          "front": "What is akathisia?",
+          "back": "A distressing sense of motor restlessness with difficulty remaining still."
+        },
+        {
+          "front": "What may tardive dyskinesia look like?",
+          "back": "Repetitive involuntary facial, oral, tongue, or limb movements."
+        },
+        {
+          "front": "Which symptom cluster suggests neuroleptic malignant syndrome?",
+          "back": "Fever, severe rigidity, mental-status change, and autonomic instability."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "New repetitive tongue and chewing movements during chronic antipsychotic exposure suggest what?",
+          "answer": "Tardive dyskinesia",
+          "distractors": [
+            "Simple muscle hypertrophy",
+            "Improved coordination",
+            "Acute hypoglycemia by definition"
+          ],
+          "rationale": "The movement pattern is characteristic of tardive dyskinesia and needs medical assessment."
+        },
+        {
+          "question": "Which presentation needs emergency escalation?",
+          "answer": "Fever with severe rigidity and confusion",
+          "distractors": [
+            "Mild dry mouth alone",
+            "Stable symptom control",
+            "Improved instruction following"
+          ],
+          "rationale": "This cluster may represent neuroleptic malignant syndrome."
+        }
+      ],
+      "case": {
+        "scenario": "A long-term antipsychotic user develops repeated lip smacking and finger movements.",
+        "question": "Why should the therapist report this early?",
+        "answer": "Possible tardive dyskinesia may persist and warrants prompt prescriber assessment rather than being accepted as a harmless habit."
+      }
+    },
+    {
+      "id": 9,
+      "title": "Antiepileptic Drugs",
+      "section": "Central nervous system",
+      "day": 2,
+      "pages": [
+        115,
+        130
+      ],
+      "pdfPages": [
+        145,
+        160
+      ],
+      "minutes": 22,
+      "focus": "Link seizure control, adverse effects, and functional safety.",
+      "points": [
+        "Antiseizure drugs suppress excessive neural firing or propagation; controlling seizures is not the same as curing the underlying disorder.",
+        "Mechanisms include voltage-gated sodium or calcium channel effects, enhancement of GABA transmission, and modulation of synaptic release.",
+        "Selection depends on seizure type, adverse effects, interactions, and patient factors; one drug is not appropriate for every seizure pattern.",
+        "Traditional examples include phenytoin, carbamazepine, valproate, phenobarbital, and ethosuximide. Newer examples include lamotrigine, levetiracetam, gabapentin, and pregabalin.",
+        "Sedation, dizziness, ataxia, cognitive effects, and agent-specific skin or systemic reactions can affect mobility and learning.",
+        "Some agents have nonlinear kinetics or major enzyme interactions. Several are also used for neuropathic pain or mood disorders.",
+        "Long-term treatment can influence bone health; seizure history and adherence remain important even when referral is for an unrelated problem."
+      ],
+      "drugs": [
+        {
+          "class": "Sodium-channel related agents",
+          "examples": "Phenytoin; carbamazepine; lamotrigine",
+          "mechanism": "Limit repetitive neuronal firing",
+          "watch": "Ataxia; dizziness; agent-specific rash"
+        },
+        {
+          "class": "Other antiseizure mechanisms",
+          "examples": "Valproate; levetiracetam; gabapentin",
+          "mechanism": "Different inhibitory and synaptic effects",
+          "watch": "Sedation and agent-specific interactions"
+        }
+      ],
+      "rehab": [
+        "Know the individual seizure response plan and maintain a safe treatment environment.",
+        "Compare coordination and alertness with the dosing schedule.",
+        "Report increased seizures or new toxicity features; never advise abrupt discontinuation."
+      ],
+      "trap": "An antiseizure prescription does not prove the patient has epilepsy; it may be used for pain or mood.",
+      "flashcards": [
+        {
+          "front": "Why is seizure type important?",
+          "back": "Drug effectiveness and possible worsening vary across seizure types."
+        },
+        {
+          "front": "Which adverse effect can mimic cerebellar dysfunction?",
+          "back": "Drug-related ataxia."
+        },
+        {
+          "front": "Why review long-term bone health?",
+          "back": "Some chronic antiseizure regimens can contribute to reduced bone health and fracture risk."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which new finding can interfere directly with gait safety during antiseizure therapy?",
+          "answer": "Ataxia",
+          "distractors": [
+            "More readable labels",
+            "Increased tablet weight",
+            "Generic substitution by name alone"
+          ],
+          "rationale": "Coordination impairment can result from adverse drug effects."
+        },
+        {
+          "question": "A patient takes gabapentin. What should you establish before assuming epilepsy?",
+          "answer": "The indication for treatment",
+          "distractors": [
+            "The color of the capsule",
+            "The pharmacy logo",
+            "Whether the name has three syllables"
+          ],
+          "rationale": "Gabapentin may be prescribed for neuropathic pain and other indications."
+        }
+      ],
+      "case": {
+        "scenario": "A patient treated for neuralgia becomes unsteady after a medication increase.",
+        "question": "What should the therapist consider?",
+        "answer": "An antiseizure drug used for pain may still cause sedation or ataxia. Compare the onset with the change and communicate functional consequences."
+      }
+    },
+    {
+      "id": 10,
+      "title": "Pharmacological Management of Parkinson Disease",
+      "section": "Central nervous system",
+      "day": 2,
+      "pages": [
+        131,
+        148
+      ],
+      "pdfPages": [
+        161,
+        178
+      ],
+      "minutes": 22,
+      "focus": "Use the dopamine model to understand motor fluctuations.",
+      "points": [
+        "Loss of dopaminergic neurons in the substantia nigra alters basal-ganglia signaling and contributes to bradykinesia, rigidity, and tremor.",
+        "Levodopa crosses into the CNS and is converted to dopamine. Carbidopa reduces peripheral conversion, improving delivery and reducing peripheral effects.",
+        "Dopamine agonists stimulate receptors directly; MAO-B and COMT inhibitors prolong dopaminergic effects through different sites of action.",
+        "Amantadine and selected anticholinergic agents act through other mechanisms; benefit and adverse effects differ by symptom and patient.",
+        "Wearing-off is a return of symptoms as a dose effect wanes; on-off fluctuations can be less predictable. Dyskinesia is excessive involuntary movement, not simply improved mobility.",
+        "Orthostatic hypotension, nausea, hallucinations, somnolence, and cognitive effects can limit function.",
+        "Motor improvement does not remove balance, freezing, or fall risks; therapy should use the patient’s observed response pattern."
+      ],
+      "drugs": [
+        {
+          "class": "Dopamine replacement",
+          "examples": "Levodopa plus carbidopa",
+          "mechanism": "Replenishes CNS dopamine while reducing peripheral breakdown",
+          "watch": "Fluctuations; dyskinesia; orthostasis"
+        },
+        {
+          "class": "Adjunct dopaminergic drugs",
+          "examples": "Pramipexole; selegiline; entacapone",
+          "mechanism": "Stimulate receptors or prolong dopamine-related action",
+          "watch": "Sleepiness; hallucinations; interactions"
+        },
+        {
+          "class": "Other mechanisms",
+          "examples": "Amantadine; selected anticholinergics",
+          "mechanism": "Modulate nondopaminergic signaling",
+          "watch": "Cognitive and anticholinergic burdens"
+        }
+      ],
+      "rehab": [
+        "Record when useful mobility occurs relative to actual dosing.",
+        "Practice demanding tasks during observed periods of useful response, while guarding for dyskinesia.",
+        "Use postural blood-pressure and symptom monitoring when indicated."
+      ],
+      "trap": "Carbidopa is not the main agent restoring dopamine inside the brain.",
+      "flashcards": [
+        {
+          "front": "Why combine carbidopa with levodopa?",
+          "back": "To reduce peripheral levodopa conversion and improve CNS delivery."
+        },
+        {
+          "front": "What is wearing-off?",
+          "back": "Motor benefit fades as the dose effect declines."
+        },
+        {
+          "front": "Why track an on-off diary?",
+          "back": "It helps align functional training with the individual response pattern."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug is converted to dopamine within the CNS?",
+          "answer": "Levodopa",
+          "distractors": [
+            "Carbidopa alone",
+            "Naloxone",
+            "Warfarin"
+          ],
+          "rationale": "Levodopa is the dopamine precursor; carbidopa chiefly acts peripherally."
+        },
+        {
+          "question": "A patient has excessive involuntary movement at peak benefit. What term fits?",
+          "answer": "Dyskinesia",
+          "distractors": [
+            "Complete paralysis",
+            "Antibacterial resistance",
+            "Simple wearing-off only"
+          ],
+          "rationale": "Dyskinesia describes involuntary movement that can accompany dopaminergic treatment."
+        }
+      ],
+      "case": {
+        "scenario": "A patient walks well after medication but freezes later in the session.",
+        "question": "How should the study coach frame the problem?",
+        "answer": "Consider motor fluctuations, document dose and symptom timing, and adapt supervised training rather than assuming inconsistent effort."
+      }
+    },
+    {
+      "id": 11,
+      "title": "General Anesthetics",
+      "section": "Anesthesia and muscle",
+      "day": 3,
+      "pages": [
+        149,
+        164
+      ],
+      "pdfPages": [
+        179,
+        194
+      ],
+      "minutes": 22,
+      "focus": "Understand recovery after global CNS depression.",
+      "points": [
+        "General anesthesia produces reversible unconsciousness and components of amnesia, analgesia, and immobility; balanced anesthesia uses several agents to achieve these goals.",
+        "Inhaled agents and IV agents differ in delivery, uptake, recovery, and adverse effects.",
+        "Blood-gas solubility influences how quickly inhaled anesthetic partial pressures change. Lower solubility generally permits faster induction and recovery under comparable conditions.",
+        "Minimum alveolar concentration is an inhaled potency measure; it is not a direct measure of all aspects of safety.",
+        "Cardiorespiratory depression, postoperative nausea, confusion, and residual impairment can complicate recovery.",
+        "Neuromuscular blockers may be adjuncts for surgery but do not themselves provide consciousness loss or pain relief.",
+        "Inherited susceptibility to malignant hyperthermia is associated with selected anesthetic triggers and is a medical emergency."
+      ],
+      "drugs": [
+        {
+          "class": "Inhaled anesthetics",
+          "examples": "Sevoflurane; isoflurane; nitrous oxide",
+          "mechanism": "Reversible CNS effects through multiple targets",
+          "watch": "Cardiorespiratory effects and recovery profile"
+        },
+        {
+          "class": "IV anesthetics",
+          "examples": "Propofol; etomidate; ketamine",
+          "mechanism": "Different CNS targets and anesthetic profiles",
+          "watch": "Hemodynamic, emergence, and airway considerations"
+        }
+      ],
+      "rehab": [
+        "Confirm postoperative alertness, respiratory stability, and mobility clearance before treatment.",
+        "Distinguish residual anesthetic impairment from the surgical impairment.",
+        "Coordinate early mobilization with the perioperative team and monitor response."
+      ],
+      "trap": "Immobility from a neuromuscular blocker does not mean analgesia or unconsciousness.",
+      "flashcards": [
+        {
+          "front": "What is balanced anesthesia?",
+          "back": "Combining agents to provide complementary anesthetic effects."
+        },
+        {
+          "front": "What does MAC primarily compare?",
+          "back": "Inhaled anesthetic potency under standardized conditions."
+        },
+        {
+          "front": "Why assess postoperative cognition?",
+          "back": "Residual drug effects can impair instruction following and safe mobility."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which statement about neuromuscular blockers is correct?",
+          "answer": "They do not independently provide analgesia or unconsciousness",
+          "distractors": [
+            "They always provide complete amnesia",
+            "They replace every anesthetic",
+            "They are ordinary oral antidepressants"
+          ],
+          "rationale": "Paralysis must be distinguished from anesthesia and analgesia."
+        },
+        {
+          "question": "Lower blood-gas solubility generally supports what?",
+          "answer": "Faster changes in anesthetic effect",
+          "distractors": [
+            "Guaranteed absence of adverse effects",
+            "Permanent anesthesia",
+            "Inability to administer by inhalation"
+          ],
+          "rationale": "Less dissolved blood reservoir allows alveolar and brain partial pressures to change faster."
+        }
+      ],
+      "case": {
+        "scenario": "A postoperative patient is awake but inattentive and unsteady.",
+        "question": "What matters before ambulation?",
+        "answer": "Assess recovery and safety with the team; wakefulness alone does not establish full recovery of cognition, balance, or cardiorespiratory function."
+      }
+    },
+    {
+      "id": 12,
+      "title": "Local Anesthetics",
+      "section": "Anesthesia and muscle",
+      "day": 3,
+      "pages": [
+        165,
+        176
+      ],
+      "pdfPages": [
+        195,
+        206
+      ],
+      "minutes": 22,
+      "focus": "Explain regional loss of sensation and its precautions.",
+      "points": [
+        "Local anesthetics inhibit voltage-gated sodium channels, preventing action-potential propagation in exposed nerves.",
+        "Routes include topical application, local infiltration, peripheral nerve blocks, and neuraxial techniques.",
+        "Ester and amide agents differ in metabolism and some adverse-effect patterns. Lidocaine and bupivacaine are amide examples.",
+        "Onset and effectiveness depend on tissue conditions, nerve characteristics, concentration, and delivery site; acidic inflamed tissue can reduce effectiveness.",
+        "A vasoconstrictor may prolong local action and reduce systemic uptake, but local circulation and the clinical context matter.",
+        "Regional anesthesia can impair protective sensation and sometimes motor function. Systemic toxicity can affect the CNS and heart.",
+        "Iontophoresis and phonophoresis aim to assist local delivery, but delivery efficacy and safety depend on the actual drug and method."
+      ],
+      "drugs": [
+        {
+          "class": "Amide local anesthetics",
+          "examples": "Lidocaine; bupivacaine",
+          "mechanism": "Block neuronal sodium channels",
+          "watch": "Systemic CNS and cardiac toxicity if exposure is excessive"
+        },
+        {
+          "class": "Ester local anesthetics",
+          "examples": "Procaine; tetracaine",
+          "mechanism": "Block neuronal sodium channels",
+          "watch": "Metabolism and hypersensitivity considerations"
+        }
+      ],
+      "rehab": [
+        "Protect an insensate region from burns, pressure, and unrecognized injury.",
+        "Check strength and sensation before weight bearing after a regional block.",
+        "Avoid assuming that reduced pain means the tissue has recovered or can tolerate aggressive loading."
+      ],
+      "trap": "A numb limb can still be injured; analgesia does not restore protective feedback.",
+      "flashcards": [
+        {
+          "front": "Which ion channel is the main target?",
+          "back": "Voltage-gated sodium channels."
+        },
+        {
+          "front": "Why protect anesthetized skin from heat?",
+          "back": "Loss of sensation reduces warning of a thermal injury."
+        },
+        {
+          "front": "Does a nerve block always preserve motor function?",
+          "back": "No; motor impairment depends on the block and exposure."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What directly prevents nerve conduction with a local anesthetic?",
+          "answer": "Sodium-channel blockade",
+          "distractors": [
+            "Increased platelet synthesis",
+            "Activation of vitamin D",
+            "Inhibition of gastric acid alone"
+          ],
+          "rationale": "Blocking sodium current interrupts action-potential propagation."
+        },
+        {
+          "question": "After a lower-limb block, what should precede walking?",
+          "answer": "Assessment of motor and sensory recovery",
+          "distractors": [
+            "Assuming pain relief means normal strength",
+            "Removing every safety aid",
+            "Testing heat tolerance with a hot pack"
+          ],
+          "rationale": "Both protective sensation and motor control may be reduced."
+        }
+      ],
+      "case": {
+        "scenario": "A patient reports no knee pain after a nerve block and wants to walk alone.",
+        "question": "Why is pain relief insufficient?",
+        "answer": "The block may also reduce sensation or motor control. Follow mobility clearance and assess function before supervised progression."
+      }
+    },
+    {
+      "id": 13,
+      "title": "Skeletal Muscle Relaxants",
+      "section": "Anesthesia and muscle",
+      "day": 3,
+      "pages": [
+        179,
+        198
+      ],
+      "pdfPages": [
+        209,
+        228
+      ],
+      "minutes": 28,
+      "focus": "Separate muscle spasm from neurological spasticity.",
+      "points": [
+        "Musculoskeletal spasm and CNS-related spasticity have different mechanisms and treatment goals.",
+        "Centrally acting antispasm drugs may reduce discomfort partly through sedation; lower tone does not automatically improve function.",
+        "Baclofen is a GABA-B agonist acting mainly at spinal pathways; intrathecal delivery can focus spinal effects but requires pump monitoring.",
+        "Dantrolene acts directly on skeletal-muscle calcium release. Tizanidine is an alpha-2 agonist with central antispastic effects.",
+        "Botulinum toxin inhibits acetylcholine release at targeted neuromuscular junctions, producing focal weakness useful for selected goals.",
+        "Diazepam may reduce spasticity but sedation and dependence limit use. Neuromuscular blocking drugs used in surgery have a separate role.",
+        "Adverse effects include weakness, sedation, and agent-specific hypotension or liver toxicity; sudden interruption of baclofen can be dangerous."
+      ],
+      "drugs": [
+        {
+          "class": "Central antispastic agents",
+          "examples": "Baclofen; tizanidine; diazepam",
+          "mechanism": "Reduce excitatory motor output through different pathways",
+          "watch": "Weakness; sedation; hypotension"
+        },
+        {
+          "class": "Peripheral agents",
+          "examples": "Dantrolene; botulinum toxin",
+          "mechanism": "Reduce calcium release or acetylcholine release",
+          "watch": "Generalized or focal weakness; agent-specific toxicity"
+        },
+        {
+          "class": "Antispasm drugs",
+          "examples": "Cyclobenzaprine; methocarbamol",
+          "mechanism": "Central actions for musculoskeletal spasm",
+          "watch": "Sedation; limited functional benefit in some patients"
+        }
+      ],
+      "rehab": [
+        "Assess transfers, gait, and ADLs after tone changes; some tone may have supported a task.",
+        "Pair focal treatment with stretching, motor practice, and goal-based reassessment.",
+        "Urgently escalate sudden severe rebound symptoms or suspected pump interruption."
+      ],
+      "trap": "A lower spasticity score is not the same as better independence.",
+      "flashcards": [
+        {
+          "front": "Where does dantrolene act?",
+          "back": "Within skeletal muscle on calcium release."
+        },
+        {
+          "front": "What receptor does baclofen activate?",
+          "back": "GABA-B receptors."
+        },
+        {
+          "front": "How does botulinum toxin reduce activation?",
+          "back": "It inhibits acetylcholine release at the neuromuscular junction."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which agent acts directly within skeletal muscle rather than primarily in the CNS?",
+          "answer": "Dantrolene",
+          "distractors": [
+            "Baclofen",
+            "Diazepam",
+            "Tizanidine"
+          ],
+          "rationale": "Dantrolene reduces calcium release in skeletal muscle."
+        },
+        {
+          "question": "Why reassess transfers after increasing an antispastic drug?",
+          "answer": "Reduced tone and weakness may worsen a previously supported task",
+          "distractors": [
+            "All tone reductions guarantee independence",
+            "The drug directly heals every contracture",
+            "Only a lab value can assess function"
+          ],
+          "rationale": "Functional tradeoffs matter because tone may have assisted stability or movement."
+        }
+      ],
+      "case": {
+        "scenario": "A patient has less leg spasticity but can no longer complete transfers after treatment escalation.",
+        "question": "What should be reviewed?",
+        "answer": "The balance between useful tone reduction and loss of strength or compensatory tone. Share functional findings with the prescribing team."
+      }
+    },
+    {
+      "id": 14,
+      "title": "Opioid Analgesics",
+      "section": "Pain and inflammation",
+      "day": 3,
+      "pages": [
+        201,
+        218
+      ],
+      "pdfPages": [
+        231,
+        248
+      ],
+      "minutes": 22,
+      "focus": "Balance pain relief with respiratory and functional monitoring.",
+      "points": [
+        "Opioids act at opioid receptors to alter nociceptive transmission and pain perception; mu-receptor effects are especially important.",
+        "Analgesia can improve participation but does not reverse the tissue lesion causing pain.",
+        "Sedation, respiratory depression, nausea, constipation, urinary retention, and orthostatic effects can limit function.",
+        "Tolerance, physical dependence, and substance-use disorder are different concepts and should not be used interchangeably.",
+        "Agonists, partial agonists, mixed agents, and antagonists have different clinical profiles. Naloxone antagonizes opioid effects.",
+        "Combining an opioid with another CNS depressant can worsen sedation and breathing impairment.",
+        "Monitor observable function and breathing; never equate an apparently sleeping patient with a safely sedated patient."
+      ],
+      "drugs": [
+        {
+          "class": "Opioid agonists",
+          "examples": "Morphine; fentanyl; oxycodone",
+          "mechanism": "Activate opioid receptors",
+          "watch": "Respiratory depression; sedation; constipation"
+        },
+        {
+          "class": "Partial or mixed agents",
+          "examples": "Buprenorphine; selected mixed agonist-antagonists",
+          "mechanism": "Different receptor activity profiles",
+          "watch": "Interactions and withdrawal considerations"
+        },
+        {
+          "class": "Antagonists",
+          "examples": "Naloxone; naltrexone",
+          "mechanism": "Block opioid receptor effects",
+          "watch": "Reversal and withdrawal concerns"
+        }
+      ],
+      "rehab": [
+        "Time activity with useful analgesia while checking alertness and respiratory status.",
+        "Protect against falls and constipation-related functional limitations.",
+        "If a patient is difficult to arouse or has impaired breathing, stop therapy and activate urgent help."
+      ],
+      "trap": "Tolerance is not proof of addiction, and effective analgesia does not eliminate overdose risk.",
+      "flashcards": [
+        {
+          "front": "What is a major life-threatening opioid effect?",
+          "back": "Respiratory depression."
+        },
+        {
+          "front": "Why can analgesia help rehabilitation?",
+          "back": "It may allow movement, sleep, and participation with less pain."
+        },
+        {
+          "front": "What is physical dependence?",
+          "back": "Physiological adaptation that can produce withdrawal when exposure is abruptly reduced."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which finding needs urgent escalation in a patient receiving opioids?",
+          "answer": "Difficulty arousing with slowed breathing",
+          "distractors": [
+            "Stable pain relief with normal alertness",
+            "Mild controlled constipation",
+            "A different generic label alone"
+          ],
+          "rationale": "Reduced responsiveness with breathing impairment can signal dangerous opioid effects."
+        },
+        {
+          "question": "Which drug is an opioid antagonist?",
+          "answer": "Naloxone",
+          "distractors": [
+            "Morphine",
+            "Fentanyl",
+            "Oxycodone"
+          ],
+          "rationale": "Naloxone blocks opioid receptors and can reverse opioid effects."
+        }
+      ],
+      "case": {
+        "scenario": "A patient after surgery is unusually unresponsive before therapy.",
+        "question": "What takes priority over mobilization?",
+        "answer": "Immediate assessment and emergency escalation for possible respiratory/CNS depression; medication timing is not a reason to continue treatment through unsafe sedation."
+      }
+    },
+    {
+      "id": 15,
+      "title": "Nonsteroidal Anti-Inflammatory Drugs",
+      "section": "Pain and inflammation",
+      "day": 3,
+      "pages": [
+        219,
+        236
+      ],
+      "pdfPages": [
+        249,
+        266
+      ],
+      "minutes": 22,
+      "focus": "Differentiate analgesia, anti-inflammatory action, and toxicity.",
+      "points": [
+        "NSAIDs inhibit cyclooxygenase and reduce prostaglandin synthesis, producing analgesic, antipyretic, and anti-inflammatory effects.",
+        "COX-1 contributes to protective gastric and platelet functions; COX-2 contributes to inflammatory signaling but also has physiological roles.",
+        "Aspirin irreversibly inhibits platelet function. Most other NSAIDs have reversible platelet effects and should not be assumed equivalent.",
+        "Important harms include GI injury or bleeding, renal effects, fluid retention, and cardiovascular risks that vary by agent and patient.",
+        "COX-2 selectivity may reduce some GI effects but does not eliminate GI, renal, or cardiovascular risk.",
+        "Acetaminophen is analgesic and antipyretic with little clinically useful peripheral anti-inflammatory action; excessive exposure can injure the liver.",
+        "OTC products can duplicate NSAIDs or acetaminophen, especially in combination cold and pain preparations."
+      ],
+      "drugs": [
+        {
+          "class": "Nonselective NSAIDs",
+          "examples": "Ibuprofen; naproxen; aspirin",
+          "mechanism": "Reduce COX-derived prostaglandins",
+          "watch": "GI bleeding; kidney effects; fluid retention"
+        },
+        {
+          "class": "COX-2-selective NSAID",
+          "examples": "Celecoxib",
+          "mechanism": "Preferential COX-2 inhibition",
+          "watch": "Cardiovascular and renal concerns remain"
+        },
+        {
+          "class": "Non-NSAID analgesic",
+          "examples": "Acetaminophen",
+          "mechanism": "Analgesia and antipyresis with limited anti-inflammatory effect",
+          "watch": "Hepatic toxicity with excessive exposure"
+        }
+      ],
+      "rehab": [
+        "Report unexplained bruising, black stools, edema, or marked changes in exercise tolerance.",
+        "Ask about nonprescription use and duplicate ingredients.",
+        "Pain reduction should not justify overloading injured tissue."
+      ],
+      "trap": "Acetaminophen is not an interchangeable anti-inflammatory substitute for an NSAID.",
+      "flashcards": [
+        {
+          "front": "What enzyme family do NSAIDs inhibit?",
+          "back": "Cyclooxygenase enzymes."
+        },
+        {
+          "front": "Why is acetaminophen different from NSAIDs?",
+          "back": "It has little useful peripheral anti-inflammatory action and a different toxicity profile."
+        },
+        {
+          "front": "Does COX-2 selectivity remove kidney risk?",
+          "back": "No; renal and other risks remain."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug has little clinically useful peripheral anti-inflammatory action?",
+          "answer": "Acetaminophen",
+          "distractors": [
+            "Ibuprofen",
+            "Naproxen",
+            "Aspirin"
+          ],
+          "rationale": "Acetaminophen reduces pain and fever but is not a conventional anti-inflammatory NSAID."
+        },
+        {
+          "question": "Which effect distinguishes aspirin at platelets?",
+          "answer": "Irreversible COX inhibition",
+          "distractors": [
+            "Permanent beta-receptor activation",
+            "Direct clot dissolution",
+            "Selective stimulation of insulin release"
+          ],
+          "rationale": "Aspirin irreversibly inhibits platelet COX; it does not dissolve an existing clot."
+        }
+      ],
+      "case": {
+        "scenario": "A patient calls an acetaminophen product an anti-inflammatory and takes a second cold medicine containing it.",
+        "question": "What should be clarified?",
+        "answer": "Identify the active ingredients, the difference from NSAIDs, and the duplicate exposure concern, then refer medication questions to the pharmacist or prescriber."
+      }
+    },
+    {
+      "id": 16,
+      "title": "Rheumatoid Arthritis and Osteoarthritis Pharmacology",
+      "section": "Pain and inflammation",
+      "day": 3,
+      "pages": [
+        237,
+        260
+      ],
+      "pdfPages": [
+        267,
+        290
+      ],
+      "minutes": 28,
+      "focus": "Distinguish symptom control from disease modification.",
+      "points": [
+        "RA is an inflammatory autoimmune joint disorder; OA involves degenerative joint changes with different treatment goals.",
+        "NSAIDs can reduce pain and inflammation but do not substitute for RA disease-modifying therapy.",
+        "Conventional DMARDs, such as methotrexate, modify disease activity. Their benefit is not the same as immediate analgesia.",
+        "Biological agents target immune pathways, such as TNF signaling; infection and other agent-specific toxicities require monitoring.",
+        "Glucocorticoids suppress inflammation quickly but chronic exposure can cause muscle wasting, bone loss, fragile skin, and adrenal suppression.",
+        "OA medication strategies principally address symptoms; the chapter discusses analgesics, NSAIDs, injections, and viscosupplementation.",
+        "Medication relief should support appropriately graded activity, joint protection, and function; it does not prove joint tissue is resistant to stress."
+      ],
+      "drugs": [
+        {
+          "class": "Conventional DMARDs",
+          "examples": "Methotrexate; sulfasalazine; hydroxychloroquine",
+          "mechanism": "Modify inflammatory disease activity through different pathways",
+          "watch": "Agent-specific marrow, hepatic, or ocular monitoring"
+        },
+        {
+          "class": "Biological DMARDs",
+          "examples": "Etanercept; infliximab; adalimumab",
+          "mechanism": "Target selected inflammatory pathways",
+          "watch": "Infection and immune effects"
+        },
+        {
+          "class": "Symptom control",
+          "examples": "NSAIDs; glucocorticoids; acetaminophen for selected pain",
+          "mechanism": "Reduce symptoms through different mechanisms",
+          "watch": "Do not confuse relief with structural protection"
+        }
+      ],
+      "rehab": [
+        "Watch for infection signs in patients on immune-modifying treatment.",
+        "Use joint protection and graded strengthening despite improved pain.",
+        "Consider steroid-related skin, muscle, and bone vulnerability before forceful interventions."
+      ],
+      "trap": "An NSAID reduces symptoms; a DMARD addresses disease activity in RA.",
+      "flashcards": [
+        {
+          "front": "What does DMARD mean?",
+          "back": "Disease-modifying antirheumatic drug."
+        },
+        {
+          "front": "Why is chronic steroid use relevant to rehabilitation?",
+          "back": "It may weaken muscle and bone and make skin fragile."
+        },
+        {
+          "front": "Are OA and RA pharmacological goals identical?",
+          "back": "No; RA requires attention to autoimmune disease modification, while OA management is largely symptomatic."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which intervention addresses RA disease activity rather than only pain?",
+          "answer": "A DMARD such as methotrexate",
+          "distractors": [
+            "An isolated analgesic effect",
+            "A tablet brand change",
+            "Stopping all exercise"
+          ],
+          "rationale": "DMARDs can modify inflammatory disease progression rather than simply relieve pain."
+        },
+        {
+          "question": "Which finding fits chronic glucocorticoid effects?",
+          "answer": "Muscle wasting and fragile skin",
+          "distractors": [
+            "Guaranteed tissue strengthening",
+            "Permanent infection protection",
+            "Absence of fracture risk"
+          ],
+          "rationale": "Chronic glucocorticoids can have catabolic effects on muscle, skin, and bone."
+        }
+      ],
+      "case": {
+        "scenario": "A patient with RA has excellent pain relief but new bruising and proximal weakness on long-term steroids.",
+        "question": "What should change in the review plan?",
+        "answer": "Review steroid adverse effects, protect vulnerable tissues, document weakness, and coordinate with the team rather than increasing loading solely because pain is reduced."
+      }
+    },
+    {
+      "id": 17,
+      "title": "Patient-Controlled Analgesia",
+      "section": "Pain and inflammation",
+      "day": 3,
+      "pages": [
+        261,
+        276
+      ],
+      "pdfPages": [
+        291,
+        306
+      ],
+      "minutes": 22,
+      "focus": "Understand demand dosing and its safety limits.",
+      "points": [
+        "PCA lets a patient request small programmed analgesic doses through a pump; routes can include IV or neuraxial delivery.",
+        "Demand dose, lockout interval, optional basal infusion, and overall limits are different settings.",
+        "A lockout interval reduces repeated dosing but does not guarantee safety if programming, drug concentration, or patient selection is inappropriate.",
+        "A patient must be capable of understanding and using the device. Other people should not press the demand button for a sleeping patient.",
+        "Opioid PCA still carries sedation and respiratory-depression risk. Neuraxial mixtures may also affect sensation, strength, or blood pressure.",
+        "Benefits include more individualized pain control and potentially improved participation; monitoring and trained oversight remain essential."
+      ],
+      "drugs": [
+        {
+          "class": "PCA opioids",
+          "examples": "Morphine; fentanyl; other prescribed opioids",
+          "mechanism": "Programmed patient-triggered analgesic delivery",
+          "watch": "Sedation and respiratory depression"
+        },
+        {
+          "class": "Neuraxial PCA",
+          "examples": "Opioid and/or local anesthetic regimens",
+          "mechanism": "Analgesia delivered near spinal pathways",
+          "watch": "Motor/sensory change; hypotension; catheter issues"
+        }
+      ],
+      "rehab": [
+        "Coordinate activity around effective, prescribed analgesia without altering pump settings.",
+        "Check alertness, breathing, and motor/sensory status where relevant.",
+        "Escalate unsafe sedation, device concerns, or unexpected weakness to the responsible team."
+      ],
+      "trap": "PCA by proxy defeats the safety premise of an awake patient controlling demand doses.",
+      "flashcards": [
+        {
+          "front": "What does a lockout interval do?",
+          "back": "Prevents another demand dose from being delivered during the programmed interval."
+        },
+        {
+          "front": "Who should press a patient-controlled demand button?",
+          "back": "The appropriately assessed patient, following the prescribed plan."
+        },
+        {
+          "front": "Does a lockout prevent every overdose?",
+          "back": "No; other settings, drug factors, and patient factors still matter."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which action conflicts with the usual safety principle of PCA?",
+          "answer": "A relative presses for a sleeping patient",
+          "distractors": [
+            "The patient requests a permitted dose",
+            "A clinician checks alertness",
+            "Staff verify the prescribed settings"
+          ],
+          "rationale": "Proxy dosing can deliver medication when the patient cannot self-limit because of sedation."
+        },
+        {
+          "question": "What should you do if the PCA patient is difficult to arouse?",
+          "answer": "Stop therapy and urgently alert the clinical team",
+          "distractors": [
+            "Begin unsupervised walking",
+            "Increase the pump rate",
+            "Assume a lockout proves safety"
+          ],
+          "rationale": "Reduced consciousness may signal dangerous drug effects despite programmed safeguards."
+        }
+      ],
+      "case": {
+        "scenario": "A relative reports repeatedly pressing the PCA button while the patient sleeps.",
+        "question": "What is the priority?",
+        "answer": "Escalate immediately to the nursing or pain team, assess patient safety through the clinical response process, and explain that demand control belongs to the assessed patient."
+      }
+    },
+    {
+      "id": 18,
+      "title": "Introduction to Autonomic Pharmacology",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        279,
+        288
+      ],
+      "pdfPages": [
+        309,
+        318
+      ],
+      "minutes": 22,
+      "focus": "Build the receptor map used throughout cardiovascular pharmacology.",
+      "points": [
+        "The autonomic nervous system regulates involuntary functions through sympathetic and parasympathetic divisions.",
+        "All autonomic preganglionic neurons use acetylcholine at nicotinic receptors in ganglia.",
+        "Most parasympathetic postganglionic effects use acetylcholine at muscarinic receptors. Most sympathetic postganglionic effects use norepinephrine at adrenergic receptors.",
+        "Sympathetic cholinergic innervation of sweat glands is a key exception to the simple norepinephrine rule.",
+        "Alpha-1 activation commonly contracts vascular smooth muscle; beta-1 activation increases cardiac activity; beta-2 activation relaxes bronchial smooth muscle.",
+        "Muscarinic cardiac activation slows rate, while muscarinic effects in glands and GI smooth muscle increase secretion and motility.",
+        "Drug action must be interpreted by receptor subtype, location, and whether the agent is an agonist or antagonist."
+      ],
+      "drugs": [
+        {
+          "class": "Cholinergic receptors",
+          "examples": "Nicotinic; muscarinic",
+          "mechanism": "Respond to acetylcholine in different locations",
+          "watch": "Ganglionic vs effector-organ effects"
+        },
+        {
+          "class": "Adrenergic receptors",
+          "examples": "Alpha-1; alpha-2; beta-1; beta-2",
+          "mechanism": "Respond to catecholamine signaling",
+          "watch": "Subtype and tissue determine response"
+        }
+      ],
+      "rehab": [
+        "Use the receptor map to predict postural blood pressure, heart-rate, sweating, and airway changes.",
+        "Review multiple autonomic drugs together because effects can add or oppose one another.",
+        "Do not assume sympathetic activation produces the same direction of effect in every organ."
+      ],
+      "trap": "Sympathetic does not always mean contraction; beta-2 activation relaxes bronchial smooth muscle.",
+      "flashcards": [
+        {
+          "front": "What transmitter is used by autonomic preganglionic neurons?",
+          "back": "Acetylcholine."
+        },
+        {
+          "front": "Which receptor is strongly associated with cardiac stimulation?",
+          "back": "Beta-1."
+        },
+        {
+          "front": "What is a major sympathetic cholinergic exception?",
+          "back": "Sweat glands receive sympathetic cholinergic input."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which receptor activation most directly produces bronchodilation?",
+          "answer": "Beta-2",
+          "distractors": [
+            "Alpha-1",
+            "Nicotinic at a skeletal motor end plate",
+            "Cardiac muscarinic only"
+          ],
+          "rationale": "Beta-2 activation relaxes bronchial smooth muscle."
+        },
+        {
+          "question": "Which transmitter is released by autonomic preganglionic neurons?",
+          "answer": "Acetylcholine",
+          "distractors": [
+            "Dopamine only",
+            "Histamine only",
+            "Insulin"
+          ],
+          "rationale": "Both sympathetic and parasympathetic preganglionic neurons release acetylcholine."
+        }
+      ],
+      "case": {
+        "scenario": "A learner predicts every sympathetic drug will raise blood pressure and tighten airways.",
+        "question": "How should the prediction be corrected?",
+        "answer": "Start with receptor subtype and location: alpha-1, beta-1, beta-2, and central alpha-2 effects are not interchangeable."
+      }
+    },
+    {
+      "id": 19,
+      "title": "Cholinergic Drugs",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        289,
+        300
+      ],
+      "pdfPages": [
+        319,
+        330
+      ],
+      "minutes": 22,
+      "focus": "Predict effects of increasing or blocking acetylcholine.",
+      "points": [
+        "Direct cholinergic agonists activate receptors; acetylcholinesterase inhibitors indirectly increase acetylcholine by slowing its breakdown.",
+        "Muscarinic stimulation can increase GI and bladder activity, gland secretion, and bronchial smooth-muscle activity, and slow the heart.",
+        "Acetylcholinesterase inhibitors can improve neuromuscular transmission in myasthenia gravis and have other indication-specific uses.",
+        "Antimuscarinics block selected parasympathetic effector responses; examples are used in bladder, airway, eye, and movement disorders.",
+        "Antimuscarinic adverse effects include dry mouth, blurred vision, constipation, urinary retention, impaired sweating, and confusion in susceptible patients.",
+        "Nicotinic neuromuscular blockers act at skeletal motor end plates and are distinct from antimuscarinic drugs.",
+        "Both excessive cholinergic stimulation and inadequate treatment can cause weakness in particular contexts; symptoms require clinical evaluation."
+      ],
+      "drugs": [
+        {
+          "class": "Cholinergic stimulants",
+          "examples": "Bethanechol; pyridostigmine; donepezil",
+          "mechanism": "Direct receptor stimulation or acetylcholinesterase inhibition",
+          "watch": "Secretions; bradycardia; GI effects"
+        },
+        {
+          "class": "Antimuscarinics",
+          "examples": "Atropine; oxybutynin; ipratropium",
+          "mechanism": "Block muscarinic receptor activity",
+          "watch": "Dryness; urinary retention; heat intolerance"
+        },
+        {
+          "class": "Neuromuscular blockers",
+          "examples": "Rocuronium; succinylcholine",
+          "mechanism": "Alter nicotinic motor-end-plate transmission",
+          "watch": "Paralysis without analgesia"
+        }
+      ],
+      "rehab": [
+        "Consider impaired sweating and heat tolerance before hot environments or strenuous sessions.",
+        "In myasthenia gravis, relate activity to observed strength and medication timing with the clinical team.",
+        "Watch for anticholinergic cognitive or visual effects that interfere with ADLs."
+      ],
+      "trap": "Anticholinergic effects at muscarinic receptors are not identical to nicotinic neuromuscular blockade.",
+      "flashcards": [
+        {
+          "front": "How does an acetylcholinesterase inhibitor increase activity?",
+          "back": "It slows acetylcholine breakdown at synapses."
+        },
+        {
+          "front": "Why can an antimuscarinic increase heat risk?",
+          "back": "It may reduce sweating."
+        },
+        {
+          "front": "Why is pyridostigmine used in myasthenia gravis?",
+          "back": "It increases acetylcholine availability at the neuromuscular junction."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which pattern fits antimuscarinic effects?",
+          "answer": "Dry mouth and reduced sweating",
+          "distractors": [
+            "Excess salivation and diarrhea",
+            "Guaranteed increased bladder emptying",
+            "Universal skeletal paralysis"
+          ],
+          "rationale": "Blocking muscarinic effects can reduce secretions and sweating."
+        },
+        {
+          "question": "What is the mechanism of pyridostigmine?",
+          "answer": "Acetylcholinesterase inhibition",
+          "distractors": [
+            "Direct insulin release only",
+            "COX-2 activation",
+            "Vitamin K blockade"
+          ],
+          "rationale": "Slower acetylcholine breakdown supports neuromuscular transmission."
+        }
+      ],
+      "case": {
+        "scenario": "A patient taking an overactive-bladder medication becomes unusually hot and dry during exercise.",
+        "question": "Which drug effect belongs in the differential?",
+        "answer": "Antimuscarinic impairment of sweating. Stop and assess the response, cool as appropriate, and escalate concerning symptoms rather than attributing all symptoms to fitness."
+      }
+    },
+    {
+      "id": 20,
+      "title": "Adrenergic Drugs",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        301,
+        314
+      ],
+      "pdfPages": [
+        331,
+        344
+      ],
+      "minutes": 22,
+      "focus": "Predict cardiovascular and airway effects from receptor selectivity.",
+      "points": [
+        "Adrenergic agonists may act directly at receptors or indirectly increase catecholamine activity.",
+        "Alpha-1 agonists increase vascular tone; alpha-1 antagonists reduce it and may cause postural hypotension.",
+        "Central alpha-2 agonists can reduce sympathetic outflow; activation of an adrenergic receptor does not always increase overall sympathetic activity.",
+        "Beta-1 agonists stimulate cardiac rate and contractility. Beta blockers reduce selected cardiac responses.",
+        "Beta-2 agonists relax airway smooth muscle; tremor and tachycardia can accompany their use.",
+        "Nonselective beta blockers can impair bronchodilation. Beta-1 selectivity is relative and dose-dependent rather than absolute.",
+        "Clinical uses span blood-pressure management, cardiac disease, asthma, and other conditions, depending on the agent."
+      ],
+      "drugs": [
+        {
+          "class": "Alpha-acting drugs",
+          "examples": "Phenylephrine; clonidine; prazosin",
+          "mechanism": "Subtype-specific vascular or central effects",
+          "watch": "Hypertension or orthostasis depending on action"
+        },
+        {
+          "class": "Beta agonists",
+          "examples": "Dobutamine; albuterol",
+          "mechanism": "Beta-1 cardiac stimulation or beta-2 bronchodilation",
+          "watch": "Tachycardia; tremor"
+        },
+        {
+          "class": "Beta antagonists",
+          "examples": "Metoprolol; propranolol",
+          "mechanism": "Reduce beta-mediated responses",
+          "watch": "Blunted exercise heart rate; bronchial risk with nonselective agents"
+        }
+      ],
+      "rehab": [
+        "Use perceived exertion and clinical monitoring when beta blockade blunts heart-rate response.",
+        "Monitor postural symptoms with alpha-1 blockade.",
+        "Report new wheeze or unexpected activity intolerance when the medication profile could contribute."
+      ],
+      "trap": "Cardioselective does not mean absolutely free of beta-2 effects.",
+      "flashcards": [
+        {
+          "front": "What does a beta-2 agonist do in airways?",
+          "back": "Relaxes bronchial smooth muscle."
+        },
+        {
+          "front": "Why may target heart rate mislead during beta blockade?",
+          "back": "The chronotropic response is reduced."
+        },
+        {
+          "front": "What can an alpha-1 blocker cause on standing?",
+          "back": "Orthostatic hypotension."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why might propranolol contribute to wheezing?",
+          "answer": "It blocks beta-2-mediated bronchodilation",
+          "distractors": [
+            "It directly makes new alveoli",
+            "It always causes infection",
+            "It irreversibly blocks COX-1"
+          ],
+          "rationale": "A nonselective beta blocker can oppose airway beta-2 effects."
+        },
+        {
+          "question": "What is a key exercise-monitoring adjustment during beta blockade?",
+          "answer": "Use exertion and symptoms alongside heart rate",
+          "distractors": [
+            "Ignore all cardiovascular signs",
+            "Require the same heart rate as an untreated peer",
+            "Assume every low heart rate is safe"
+          ],
+          "rationale": "Heart-rate response may be blunted even when workload is substantial."
+        }
+      ],
+      "case": {
+        "scenario": "A patient taking a beta blocker feels heavily exerted despite a modest exercise pulse.",
+        "question": "What should the learner conclude?",
+        "answer": "Heart rate alone may understate workload. Integrate symptoms, perceived exertion, blood pressure, and the prescribed rehabilitation plan."
+      }
+    },
+    {
+      "id": 21,
+      "title": "Antihypertensive Drugs",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        315,
+        334
+      ],
+      "pdfPages": [
+        345,
+        364
+      ],
+      "minutes": 28,
+      "focus": "Compare blood-pressure mechanisms and rehabilitation effects.",
+      "points": [
+        "Arterial pressure reflects cardiac output and vascular resistance; antihypertensive classes modify one or more determinants.",
+        "Diuretics change renal sodium and water handling. Electrolyte and volume effects differ among thiazide, loop, and potassium-sparing agents.",
+        "ACE inhibitors reduce angiotensin II formation; ARBs block its receptor. Cough is associated particularly with ACE inhibition, while potassium and renal effects require attention in both groups.",
+        "Beta blockers reduce cardiac sympathetic effects; alpha blockers and central sympatholytics act through other pathways.",
+        "Calcium-channel blockers and direct vasodilators reduce vascular tone through different mechanisms; some calcium-channel blockers also slow cardiac conduction.",
+        "Common functional concerns include orthostatic hypotension, fatigue, dehydration, and agent-specific electrolyte effects.",
+        "Exercise and other nonpharmacological measures can complement management, but medication changes belong to the prescribing team."
+      ],
+      "drugs": [
+        {
+          "class": "Diuretics",
+          "examples": "Hydrochlorothiazide; furosemide; spironolactone",
+          "mechanism": "Alter sodium and fluid handling",
+          "watch": "Volume depletion; differing potassium effects"
+        },
+        {
+          "class": "Renin-angiotensin agents",
+          "examples": "Lisinopril; losartan",
+          "mechanism": "Reduce angiotensin-mediated effects",
+          "watch": "Potassium and renal effects; ACE-inhibitor cough"
+        },
+        {
+          "class": "Other BP agents",
+          "examples": "Amlodipine; metoprolol; prazosin",
+          "mechanism": "Reduce vascular tone or cardiac drive",
+          "watch": "Edema; bradycardia; orthostasis depending on class"
+        }
+      ],
+      "rehab": [
+        "Use gradual position changes and monitor postural symptoms.",
+        "Consider additive vasodilation with systemic heat or a hot therapeutic pool.",
+        "Monitor exercise response and report weakness, cramps, or dizziness that may signal fluid or electrolyte problems."
+      ],
+      "trap": "All diuretics do not lower potassium; potassium-sparing drugs can raise it.",
+      "flashcards": [
+        {
+          "front": "What two major determinants influence arterial pressure?",
+          "back": "Cardiac output and vascular resistance."
+        },
+        {
+          "front": "Which class commonly causes cough?",
+          "back": "ACE inhibitors."
+        },
+        {
+          "front": "Why is systemic heat relevant?",
+          "back": "Heat-related vasodilation may add to medication-related blood-pressure lowering."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug is potassium-sparing?",
+          "answer": "Spironolactone",
+          "distractors": [
+            "Furosemide",
+            "Hydrochlorothiazide",
+            "Acetaminophen"
+          ],
+          "rationale": "Spironolactone differs from potassium-wasting diuretics and can raise potassium."
+        },
+        {
+          "question": "Why might a hot pool increase dizziness with vasodilator therapy?",
+          "answer": "Additive vasodilation may lower blood pressure",
+          "distractors": [
+            "Heat always blocks drug absorption",
+            "The pool raises every drug clearance equally",
+            "All antihypertensives become inactive in water"
+          ],
+          "rationale": "Systemic heat and vasodilating medication can combine to impair postural tolerance."
+        }
+      ],
+      "case": {
+        "scenario": "A patient becomes lightheaded when standing after pool therapy while taking antihypertensives.",
+        "question": "What relationship should be reviewed?",
+        "answer": "The combined effects of heat, vasodilation, volume status, and position change. Stop and assess safely and communicate significant symptoms."
+      }
+    },
+    {
+      "id": 22,
+      "title": "Treatment of Angina Pectoris",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        335,
+        348
+      ],
+      "pdfPages": [
+        365,
+        378
+      ],
+      "minutes": 22,
+      "focus": "Connect antianginal therapy to oxygen supply and demand.",
+      "points": [
+        "Angina reflects myocardial oxygen supply that is insufficient relative to demand; stable, vasospastic, and unstable presentations are not interchangeable.",
+        "Nitrates generate nitric-oxide-related smooth-muscle relaxation and reduce cardiac workload, especially through venodilation.",
+        "Beta blockers reduce heart rate and contractility, lowering oxygen demand.",
+        "Calcium-channel blockers can reduce workload and relieve coronary spasm; cardiac and vascular effects depend on the agent.",
+        "Nitrate headache, dizziness, hypotension, and tolerance are relevant; formulation and dosing strategies belong to the prescribed plan.",
+        "Nitrates have a dangerous hypotensive interaction with PDE-5 inhibitors. Medication reconciliation must include drugs used outside the cardiac regimen.",
+        "New, worsening, or rest chest symptoms require appropriate urgent assessment rather than routine exercise progression."
+      ],
+      "drugs": [
+        {
+          "class": "Nitrates",
+          "examples": "Nitroglycerin; isosorbide preparations",
+          "mechanism": "NO-related vasodilation and reduced preload",
+          "watch": "Headache; hypotension; important interactions"
+        },
+        {
+          "class": "Beta blockers",
+          "examples": "Metoprolol; atenolol",
+          "mechanism": "Reduce cardiac oxygen demand",
+          "watch": "Bradycardia; reduced exercise heart-rate response"
+        },
+        {
+          "class": "Calcium-channel blockers",
+          "examples": "Diltiazem; verapamil; amlodipine",
+          "mechanism": "Agent-specific coronary and workload effects",
+          "watch": "Hypotension; edema; conduction effects"
+        }
+      ],
+      "rehab": [
+        "Know the individual emergency and prescribed angina response plan before exercise.",
+        "Monitor symptoms, workload, and hemodynamics rather than chasing an untreated target pulse.",
+        "Stop activity and escalate new or concerning chest symptoms according to the clinical setting."
+      ],
+      "trap": "Not every calcium-channel blocker has the same effect on heart rate or conduction.",
+      "flashcards": [
+        {
+          "front": "What is the supply-demand model of angina?",
+          "back": "Myocardial oxygen demand exceeds available supply."
+        },
+        {
+          "front": "How do beta blockers help?",
+          "back": "They reduce heart rate and contractility, lowering demand."
+        },
+        {
+          "front": "Why ask about PDE-5 inhibitors with nitrates?",
+          "back": "The combination can cause dangerous hypotension."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which change primarily lowers myocardial oxygen demand?",
+          "answer": "Reduced heart rate and contractility",
+          "distractors": [
+            "Increased resting cardiac workload",
+            "Increased afterload in every case",
+            "Uncontrolled tachycardia"
+          ],
+          "rationale": "Lower cardiac work reduces oxygen consumption."
+        },
+        {
+          "question": "Which combination is a major hypotension concern?",
+          "answer": "A nitrate with a PDE-5 inhibitor",
+          "distractors": [
+            "A nitrate with a written symptom diary",
+            "A beta blocker with a gait aid",
+            "A calcium-channel blocker with a chair"
+          ],
+          "rationale": "Both drug actions can markedly amplify vasodilation."
+        }
+      ],
+      "case": {
+        "scenario": "A patient develops new chest pressure during a previously tolerated workload.",
+        "question": "What is the appropriate educational takeaway?",
+        "answer": "Stop activity and activate the appropriate assessment plan. Do not assume chronic antianginal therapy makes new symptoms benign."
+      }
+    },
+    {
+      "id": 23,
+      "title": "Treatment of Cardiac Arrhythmias",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        349,
+        358
+      ],
+      "pdfPages": [
+        379,
+        388
+      ],
+      "minutes": 22,
+      "focus": "Understand rhythm control and the risk of proarrhythmia.",
+      "points": [
+        "Arrhythmias arise from altered impulse formation or conduction. Drug selection depends on the rhythm and underlying cardiac condition.",
+        "The classic classification includes class I sodium-channel blockers, class II beta blockers, class III repolarization-prolonging drugs, and class IV selected calcium-channel blockers.",
+        "Class I agents have subgroups with different conduction and repolarization effects; the class label alone is not a full prediction.",
+        "Class II and selected class IV drugs can slow nodal conduction. Dihydropyridine calcium-channel blockers are not interchangeable with verapamil or diltiazem for this purpose.",
+        "Antiarrhythmic drugs can themselves provoke arrhythmias; therapeutic rhythm control does not eliminate the need for monitoring.",
+        "Amiodarone has multiple electrophysiological effects and important extracardiac toxicities, including pulmonary and thyroid effects.",
+        "Other agents, such as adenosine and digoxin, have indication-specific rhythm uses outside a simple four-class summary."
+      ],
+      "drugs": [
+        {
+          "class": "Classes I and III",
+          "examples": "Lidocaine; flecainide; amiodarone; sotalol",
+          "mechanism": "Modify sodium conduction or repolarization",
+          "watch": "Proarrhythmia and agent-specific toxicity"
+        },
+        {
+          "class": "Classes II and IV",
+          "examples": "Beta blockers; verapamil; diltiazem",
+          "mechanism": "Reduce sympathetic or calcium-dependent nodal effects",
+          "watch": "Bradycardia; hypotension; conduction block"
+        }
+      ],
+      "rehab": [
+        "Report new palpitations, syncope, chest symptoms, or unexpected exertional intolerance.",
+        "Monitor pulse and hemodynamic response within the prescribed rehabilitation plan.",
+        "Consider a drug-related explanation for new respiratory symptoms as well as cardiac or pulmonary disease."
+      ],
+      "trap": "An antiarrhythmic can cause an arrhythmia; its name is not a safety guarantee.",
+      "flashcards": [
+        {
+          "front": "What is proarrhythmia?",
+          "back": "A drug-induced new or worsened arrhythmia."
+        },
+        {
+          "front": "Which classic class includes beta blockers?",
+          "back": "Class II."
+        },
+        {
+          "front": "Why is amiodarone relevant beyond the ECG?",
+          "back": "It can affect organs such as the lungs and thyroid."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which calcium-channel blockers have important nodal effects?",
+          "answer": "Verapamil and diltiazem",
+          "distractors": [
+            "Every topical calcium supplement",
+            "Amlodipine and nifedipine exclusively",
+            "All antacids"
+          ],
+          "rationale": "Nondihydropyridine agents affect nodal conduction more than typical dihydropyridines."
+        },
+        {
+          "question": "What does proarrhythmia mean?",
+          "answer": "An arrhythmia caused or worsened by treatment",
+          "distractors": [
+            "Guaranteed normal sinus rhythm",
+            "Only a slow respiratory rate",
+            "Increased calcium absorption"
+          ],
+          "rationale": "Antiarrhythmic treatment can paradoxically produce hazardous rhythm changes."
+        }
+      ],
+      "case": {
+        "scenario": "A patient on rhythm medication develops near-syncope with exercise.",
+        "question": "What must not be assumed?",
+        "answer": "Do not assume the medication prevents all rhythm problems. Stop, assess, and escalate according to the clinical protocol."
+      }
+    },
+    {
+      "id": 24,
+      "title": "Treatment of Congestive Heart Failure",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        359,
+        374
+      ],
+      "pdfPages": [
+        389,
+        404
+      ],
+      "minutes": 22,
+      "focus": "Separate symptom relief from modification of harmful neurohormonal activity.",
+      "points": [
+        "Heart failure impairs effective cardiac pumping and may produce congestion, fatigue, and reduced exercise tolerance.",
+        "Compensatory sympathetic and renin-angiotensin activity can become harmful by increasing workload and remodeling.",
+        "The fifth-edition discussion emphasizes ACE inhibitors and selected beta blockers as ways to oppose harmful neurohormonal effects; this is a historical textbook framework rather than a complete current regimen.",
+        "Diuretics relieve congestion but can alter volume and electrolytes. Vasodilators can reduce preload or afterload depending on the agent.",
+        "Digoxin increases contractile force through sodium-potassium ATPase-related effects and also influences conduction; it has a narrow therapeutic range.",
+        "Digoxin toxicity may involve GI symptoms, confusion, visual changes, and arrhythmias; kidney function and potassium disturbances matter.",
+        "Different heart-failure phenotypes and stability states require different treatment and exercise plans."
+      ],
+      "drugs": [
+        {
+          "class": "Neurohormonal agents",
+          "examples": "ACE inhibitors; selected beta blockers; aldosterone antagonists",
+          "mechanism": "Oppose maladaptive signaling",
+          "watch": "BP; renal; potassium; tolerance considerations"
+        },
+        {
+          "class": "Symptom-directed agents",
+          "examples": "Loop diuretics; selected vasodilators",
+          "mechanism": "Reduce congestion or hemodynamic load",
+          "watch": "Volume depletion; electrolytes; hypotension"
+        },
+        {
+          "class": "Cardiac glycoside",
+          "examples": "Digoxin",
+          "mechanism": "Inhibits sodium-potassium ATPase and alters conduction",
+          "watch": "Narrow margin; arrhythmias; toxicity"
+        }
+      ],
+      "rehab": [
+        "Follow weight, edema, dyspnea, and activity tolerance trends within the care plan.",
+        "Report sudden worsening congestion, breathlessness, or marked fatigue.",
+        "Consider electrolyte and renal factors when new symptoms occur during digoxin or diuretic therapy."
+      ],
+      "trap": "A drug that relieves congestion does not necessarily have the same outcome benefits as a disease-modifying drug.",
+      "flashcards": [
+        {
+          "front": "Why can neurohormonal compensation become harmful?",
+          "back": "Persistent activation increases cardiac workload and adverse remodeling."
+        },
+        {
+          "front": "What is a major digoxin concern?",
+          "back": "Its narrow therapeutic range and potential for arrhythmias."
+        },
+        {
+          "front": "Why is this chapter not a complete current prescribing algorithm?",
+          "back": "It reflects the fifth-edition treatment framework published in 2016."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which medicine has a narrow margin and can cause visual, GI, and rhythm toxicity?",
+          "answer": "Digoxin",
+          "distractors": [
+            "A plain emollient",
+            "Topical miconazole alone",
+            "An inert tablet filler"
+          ],
+          "rationale": "Digoxin exposure must be interpreted with kidney function, interactions, and electrolytes."
+        },
+        {
+          "question": "What is a primary symptom-directed benefit of a loop diuretic in congestion?",
+          "answer": "Reduced fluid overload",
+          "distractors": [
+            "Guaranteed restoration of all cardiac cells",
+            "Permanent elimination of every arrhythmia",
+            "Increased blood volume"
+          ],
+          "rationale": "Diuresis reduces fluid burden but can also deplete volume and electrolytes."
+        }
+      ],
+      "case": {
+        "scenario": "A patient on a diuretic and digoxin develops nausea, unusual visual symptoms, and a new irregular pulse.",
+        "question": "What should be done with this observation?",
+        "answer": "Stop and obtain clinical assessment for possible toxicity or electrolyte-related rhythm problems rather than progressing exercise."
+      }
+    },
+    {
+      "id": 25,
+      "title": "Coagulation Disorders and Hyperlipidemia",
+      "section": "Autonomic and cardiovascular",
+      "day": 4,
+      "pages": [
+        375,
+        396
+      ],
+      "pdfPages": [
+        405,
+        426
+      ],
+      "minutes": 28,
+      "focus": "Distinguish platelet inhibition, anticoagulation, clot lysis, and lipid lowering.",
+      "points": [
+        "Hemostasis balances bleeding prevention against inappropriate thrombosis. Platelets and coagulation factors represent related but distinct targets.",
+        "Heparins enhance antithrombin-related effects; warfarin interferes with vitamin-K-dependent factor production.",
+        "Direct thrombin and factor Xa inhibitors inhibit specific coagulation enzymes; monitoring requirements are agent-specific.",
+        "Antiplatelet drugs reduce platelet activation or aggregation. They do not have identical indications or monitoring to anticoagulants.",
+        "Fibrinolytic drugs promote breakdown of existing fibrin clots; this differs from preventing further clot formation.",
+        "Bleeding risk affects handling, falls, and invasive procedures. INR is primarily a warfarin-related measure, not a universal test for every anticoagulant.",
+        "Statins lower cholesterol through HMG-CoA reductase inhibition. Myalgia, weakness, and rare severe muscle injury warrant attention; other lipid drugs act differently."
+      ],
+      "drugs": [
+        {
+          "class": "Anticoagulants",
+          "examples": "Heparin; warfarin; rivaroxaban; dabigatran",
+          "mechanism": "Reduce coagulation by different targets",
+          "watch": "Bleeding; interactions; agent-specific monitoring"
+        },
+        {
+          "class": "Antiplatelet and fibrinolytic agents",
+          "examples": "Aspirin; clopidogrel; alteplase",
+          "mechanism": "Reduce platelet activity or lyse fibrin",
+          "watch": "Bleeding; distinct clinical roles"
+        },
+        {
+          "class": "Lipid-lowering drugs",
+          "examples": "Statins; ezetimibe; fibrates",
+          "mechanism": "Reduce lipid production, absorption, or modify metabolism",
+          "watch": "Agent-specific muscle and hepatic effects"
+        }
+      ],
+      "rehab": [
+        "Modify techniques to reduce unnecessary tissue trauma in patients with bleeding risk.",
+        "Escalate suspected DVT or pulmonary embolism rather than treating it as routine muscle soreness.",
+        "Report unexplained muscle pain or weakness during statin therapy, particularly if severe or accompanied by systemic symptoms."
+      ],
+      "trap": "INR does not quantify the effect of all anticoagulants, and anticoagulation does not immediately dissolve a clot.",
+      "flashcards": [
+        {
+          "front": "Which drug class breaks down an existing fibrin clot?",
+          "back": "Fibrinolytics."
+        },
+        {
+          "front": "What does INR mainly guide in this context?",
+          "back": "Warfarin monitoring."
+        },
+        {
+          "front": "Why can a statin matter in a strength assessment?",
+          "back": "Drug-related muscle symptoms may contribute to pain or weakness."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug class directly promotes breakdown of fibrin in an existing clot?",
+          "answer": "Fibrinolytics",
+          "distractors": [
+            "Antacids",
+            "Beta-2 agonists",
+            "Antimuscarinics"
+          ],
+          "rationale": "Fibrinolysis differs from inhibiting new clot formation."
+        },
+        {
+          "question": "Which measurement is chiefly associated with warfarin management?",
+          "answer": "INR",
+          "distractors": [
+            "Peak expiratory flow",
+            "Visual acuity",
+            "A fasting temperature alone"
+          ],
+          "rationale": "INR reflects vitamin-K-antagonist effects and is not a universal anticoagulant assay."
+        }
+      ],
+      "case": {
+        "scenario": "A patient on a statin reports new generalized muscle pain rather than expected local exercise soreness.",
+        "question": "What should be reviewed?",
+        "answer": "Document timing, distribution, severity, medication changes, and systemic features, then coordinate medical review for possible drug-related muscle effects."
+      }
+    },
+    {
+      "id": 26,
+      "title": "Respiratory Drugs",
+      "section": "Respiratory and gastrointestinal",
+      "day": 5,
+      "pages": [
+        399,
+        420
+      ],
+      "pdfPages": [
+        429,
+        450
+      ],
+      "minutes": 28,
+      "focus": "Distinguish bronchodilation, inflammation control, and secretion management.",
+      "points": [
+        "Bronchodilators relax airway smooth muscle; anti-inflammatory agents address the inflammatory component of airway disease.",
+        "Beta-2 agonists vary in onset and duration. A maintenance drug should not be assumed to substitute for a prescribed acute-relief plan.",
+        "Inhaled antimuscarinics reduce cholinergic bronchoconstriction; xanthines such as theophylline have bronchodilator actions but important toxicity and interaction concerns.",
+        "Inhaled or systemic glucocorticoids reduce inflammation; oral rinsing after inhaled corticosteroids helps reduce local oral adverse effects.",
+        "Leukotriene modifiers and cromones act through other pathways. The chapter also covers cough suppressants, decongestants, antihistamines, expectorants, and mucolytics.",
+        "Sedating antihistamines can impair alertness and dry secretions; decongestants may increase cardiovascular stimulation.",
+        "Suppressing a productive cough can impair clearance in some situations. Effective inhaler use and airway hygiene influence real benefit."
+      ],
+      "drugs": [
+        {
+          "class": "Bronchodilators",
+          "examples": "Albuterol; ipratropium; theophylline",
+          "mechanism": "Relax airway smooth muscle through different mechanisms",
+          "watch": "Tremor; tachycardia; dryness; xanthine toxicity"
+        },
+        {
+          "class": "Anti-inflammatory agents",
+          "examples": "Inhaled glucocorticoids; leukotriene modifiers",
+          "mechanism": "Reduce airway inflammation",
+          "watch": "Local oral effects; systemic effects vary"
+        },
+        {
+          "class": "Symptom drugs",
+          "examples": "Antitussives; decongestants; antihistamines",
+          "mechanism": "Alter cough, nasal congestion, or allergy symptoms",
+          "watch": "Sedation; drying; cardiovascular effects"
+        }
+      ],
+      "rehab": [
+        "Check the individual rescue plan and inhaler technique before exercise sessions.",
+        "Coordinate airway-clearance work with the respiratory team.",
+        "Do not assume less coughing always means better pulmonary status."
+      ],
+      "trap": "An inhaled corticosteroid is not the same thing as a rapid bronchodilator.",
+      "flashcards": [
+        {
+          "front": "What is the core difference between a bronchodilator and a steroid?",
+          "back": "One relaxes airway smooth muscle; the other reduces inflammation."
+        },
+        {
+          "front": "Why rinse after an inhaled corticosteroid?",
+          "back": "To reduce local oral adverse effects such as candidiasis."
+        },
+        {
+          "front": "Why may a cough suppressant be problematic?",
+          "back": "It can reduce clearance when coughing is needed to remove secretions."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug is a beta-2 bronchodilator?",
+          "answer": "Albuterol",
+          "distractors": [
+            "Warfarin",
+            "Lithium",
+            "Omeprazole"
+          ],
+          "rationale": "Albuterol relaxes bronchial smooth muscle through beta-2 receptors."
+        },
+        {
+          "question": "What is a relevant risk of a sedating antihistamine during rehabilitation?",
+          "answer": "Reduced alertness and drier secretions",
+          "distractors": [
+            "Guaranteed greater exercise capacity",
+            "Permanent elimination of asthma",
+            "Direct dissolution of mucus in every case"
+          ],
+          "rationale": "Antihistamine sedation and anticholinergic drying can affect participation and secretion management."
+        }
+      ],
+      "case": {
+        "scenario": "A patient with retained secretions is coughing less after an OTC cold remedy but breathing less comfortably.",
+        "question": "What should be considered?",
+        "answer": "The product may suppress cough or dry secretions. Assess and communicate the change; reduced coughing alone is not proof of improvement."
+      }
+    },
+    {
+      "id": 27,
+      "title": "Gastrointestinal Drugs",
+      "section": "Respiratory and gastrointestinal",
+      "day": 5,
+      "pages": [
+        421,
+        432
+      ],
+      "pdfPages": [
+        451,
+        462
+      ],
+      "minutes": 22,
+      "focus": "Link acid control and bowel medicines to participation and hydration.",
+      "points": [
+        "Antacids neutralize existing gastric acid; H2 blockers and proton-pump inhibitors reduce acid secretion through different targets.",
+        "PPIs inhibit the gastric proton pump; H2 blockers reduce histamine-mediated acid secretion. Ulcer treatment may also require addressing infection or an offending drug.",
+        "Magnesium-containing antacids tend toward diarrhea; aluminum-containing products tend toward constipation.",
+        "Antidiarrheal agents reduce motility or have other local effects; the cause of diarrhea still matters.",
+        "Laxative types include bulk-forming, osmotic, stimulant, and stool-softening approaches, with different mechanisms and fluid needs.",
+        "Antiemetics act at different receptors; some cause sedation, extrapyramidal symptoms, or other adverse effects.",
+        "The chapter also addresses agents for digestion and bile-related problems. Drug binding and altered GI conditions can influence absorption of other medicines."
+      ],
+      "drugs": [
+        {
+          "class": "Acid-related agents",
+          "examples": "Antacids; famotidine; omeprazole",
+          "mechanism": "Neutralize acid or reduce secretion",
+          "watch": "Bowel changes; interactions; class-specific risks"
+        },
+        {
+          "class": "Bowel agents",
+          "examples": "Bulk-forming; osmotic; stimulant laxatives; loperamide",
+          "mechanism": "Alter stool water or motility",
+          "watch": "Dehydration; electrolyte changes; constipation"
+        },
+        {
+          "class": "Antiemetics and other GI drugs",
+          "examples": "Metoclopramide; ondansetron; digestive enzymes",
+          "mechanism": "Different motility or receptor effects",
+          "watch": "Sedation or other agent-specific adverse effects"
+        }
+      ],
+      "rehab": [
+        "Consider urgency and bowel scheduling when planning treatment.",
+        "Diarrhea or laxative overuse can affect hydration and postural tolerance.",
+        "Avoid assuming straining and constipation are unrelated to a worsening musculoskeletal complaint."
+      ],
+      "trap": "Antacids neutralize acid that is present; PPIs reduce its secretion.",
+      "flashcards": [
+        {
+          "front": "What is the PPI target?",
+          "back": "The gastric proton pump."
+        },
+        {
+          "front": "Which antacid component commonly causes constipation?",
+          "back": "Aluminum compounds."
+        },
+        {
+          "front": "Why can GI drugs affect another medication?",
+          "back": "They can bind drugs or alter absorption conditions."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which medication class neutralizes existing gastric acid?",
+          "answer": "Antacids",
+          "distractors": [
+            "ACE inhibitors",
+            "Beta blockers",
+            "Antiseizure drugs"
+          ],
+          "rationale": "Neutralization differs from suppressing acid secretion."
+        },
+        {
+          "question": "Which change can follow excessive laxative-related diarrhea?",
+          "answer": "Fluid and electrolyte loss",
+          "distractors": [
+            "Guaranteed improved standing tolerance",
+            "Complete absence of interactions",
+            "Direct stimulation of bone formation"
+          ],
+          "rationale": "Loss of fluid and electrolytes can contribute to weakness and dizziness."
+        }
+      ],
+      "case": {
+        "scenario": "A patient has dizziness and reduced exercise tolerance during several days of diarrhea after a bowel-medication change.",
+        "question": "What relationship should be assessed?",
+        "answer": "Possible fluid and electrolyte loss, alongside other causes. Document bowel symptoms and coordinate clinical review before progressing activity."
+      }
+    },
+    {
+      "id": 28,
+      "title": "Introduction to Endocrine Pharmacology",
+      "section": "Endocrine",
+      "day": 5,
+      "pages": [
+        435,
+        446
+      ],
+      "pdfPages": [
+        465,
+        476
+      ],
+      "minutes": 22,
+      "focus": "Use feedback and receptor location to understand hormone drugs.",
+      "points": [
+        "Hormones are endogenous signaling chemicals that act at specific target receptors, often after traveling through the circulation.",
+        "Hypothalamic and pituitary control links neural input with peripheral endocrine glands.",
+        "Negative feedback adjusts hormone release; replacing or suppressing a downstream hormone can affect the entire axis.",
+        "Peptide hormones commonly act at membrane receptors; steroid and thyroid hormones commonly regulate intracellular signaling and gene expression.",
+        "Endocrine drugs may replace a deficiency, suppress excess production, block hormone action, or use a hormone effect for another therapeutic purpose.",
+        "Time course differs across hormone actions: a circulating signal may trigger slower changes in protein synthesis and tissue function.",
+        "Pituitary-related pharmacology includes growth hormone, vasopressin-related drugs, and other axis-specific agents; fluid balance and growth/metabolic effects are clinically relevant."
+      ],
+      "drugs": [
+        {
+          "class": "Hormone replacement",
+          "examples": "Insulin; thyroid hormone; adrenal replacement",
+          "mechanism": "Restores deficient signaling",
+          "watch": "Too little and too much can both impair function"
+        },
+        {
+          "class": "Hormone suppression or blockade",
+          "examples": "Antithyroid agents; receptor antagonists",
+          "mechanism": "Reduces excessive hormone effects",
+          "watch": "Feedback and target-organ consequences"
+        }
+      ],
+      "rehab": [
+        "Ask whether the drug replaces a deficiency or suppresses excess; this changes the interpretation of symptoms.",
+        "Observe energy, fluid balance, temperature tolerance, and activity response.",
+        "Endocrine symptoms can evolve slowly and need longitudinal documentation."
+      ],
+      "trap": "Giving an exogenous hormone can suppress endogenous production through feedback.",
+      "flashcards": [
+        {
+          "front": "What is negative feedback in an endocrine axis?",
+          "back": "Downstream hormone effects reduce upstream stimulation."
+        },
+        {
+          "front": "Where do many peptide hormones act?",
+          "back": "At cell-membrane receptors."
+        },
+        {
+          "front": "Name two endocrine drug strategies.",
+          "back": "Replacement of deficient signaling and suppression or blockade of excessive signaling."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which concept explains suppression of endogenous hormone release after replacement?",
+          "answer": "Negative feedback",
+          "distractors": [
+            "Antibacterial resistance",
+            "Platelet aggregation",
+            "Passive joint motion"
+          ],
+          "rationale": "A downstream hormonal signal can reduce upstream stimulation."
+        },
+        {
+          "question": "Which statement about endocrine drugs is correct?",
+          "answer": "They can replace deficiency or suppress excess",
+          "distractors": [
+            "They only act as stimulants",
+            "All work exclusively in the stomach",
+            "All effects occur instantly"
+          ],
+          "rationale": "Endocrine pharmacology includes multiple strategies with different time courses."
+        }
+      ],
+      "case": {
+        "scenario": "A learner assumes more replacement hormone must always improve energy.",
+        "question": "What is missing?",
+        "answer": "Replacement targets appropriate signaling, not maximal signaling. Excess hormone can be harmful and can alter feedback as well as target-organ function."
+      }
+    },
+    {
+      "id": 29,
+      "title": "Adrenocorticosteroids",
+      "section": "Endocrine",
+      "day": 5,
+      "pages": [
+        447,
+        464
+      ],
+      "pdfPages": [
+        477,
+        494
+      ],
+      "minutes": 22,
+      "focus": "Recall steroid benefit, catabolism, and adrenal suppression together.",
+      "points": [
+        "The adrenal cortex produces glucocorticoids, principally cortisol, and mineralocorticoids, principally aldosterone.",
+        "Glucocorticoids alter gene expression and have metabolic, anti-inflammatory, and immunosuppressive effects.",
+        "Mineralocorticoids chiefly influence sodium, potassium, and fluid balance.",
+        "Glucocorticoids may replace deficient adrenal function or treat inflammatory and immune conditions by systemic or local routes.",
+        "Chronic exposure can cause proximal muscle weakness, osteoporosis, fragile skin, impaired healing, infection susceptibility, and hyperglycemia.",
+        "Suppression of the hypothalamic-pituitary-adrenal axis means abrupt cessation after sufficient exposure can be dangerous; tapering is a prescriber decision.",
+        "Local injections may provide strong symptom relief, but tissue vulnerability and the overall exposure profile still matter."
+      ],
+      "drugs": [
+        {
+          "class": "Glucocorticoids",
+          "examples": "Hydrocortisone; prednisone; dexamethasone",
+          "mechanism": "Modify inflammatory and metabolic gene signaling",
+          "watch": "Myopathy; bone loss; infection; adrenal suppression"
+        },
+        {
+          "class": "Mineralocorticoids",
+          "examples": "Fludrocortisone",
+          "mechanism": "Promote sodium retention and influence potassium balance",
+          "watch": "Fluid retention; BP and electrolyte effects"
+        }
+      ],
+      "rehab": [
+        "Use progressive strengthening within tissue tolerance and the medical plan.",
+        "Protect thin skin and assess fracture risk before aggressive handling or loading.",
+        "Report sudden profound weakness, collapse, or other concerning systemic symptoms, especially around steroid interruption or illness."
+      ],
+      "trap": "Dramatic pain relief after a steroid does not prove connective tissue can tolerate aggressive stretching.",
+      "flashcards": [
+        {
+          "front": "What is the principal human glucocorticoid?",
+          "back": "Cortisol."
+        },
+        {
+          "front": "Why can chronic steroids cause weakness?",
+          "back": "Catabolic effects can reduce muscle tissue and proximal strength."
+        },
+        {
+          "front": "Why can abrupt cessation be dangerous?",
+          "back": "Endogenous adrenal function may remain suppressed."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which cluster fits chronic glucocorticoid exposure?",
+          "answer": "Proximal weakness, fragile skin, and bone loss",
+          "distractors": [
+            "Stronger tendons with no infection risk",
+            "Guaranteed improved glucose control",
+            "Permanent adrenal independence"
+          ],
+          "rationale": "Glucocorticoid catabolic and immunosuppressive effects can impair rehabilitation."
+        },
+        {
+          "question": "Who should direct a steroid taper?",
+          "answer": "The prescribing clinical team",
+          "distractors": [
+            "The patient based only on less pain",
+            "The exercise app automatically",
+            "A classmate without clinical review"
+          ],
+          "rationale": "Adrenal suppression and disease control require a clinically supervised plan."
+        }
+      ],
+      "case": {
+        "scenario": "A patient with long-term prednisone stops it abruptly after symptoms improve.",
+        "question": "What should the learner recognize?",
+        "answer": "Possible adrenal suppression makes unsupervised cessation unsafe. Encourage prompt contact with the prescribing team rather than providing a self-directed taper."
+      }
+    },
+    {
+      "id": 30,
+      "title": "Male and Female Hormones",
+      "section": "Endocrine",
+      "day": 5,
+      "pages": [
+        465,
+        490
+      ],
+      "pdfPages": [
+        495,
+        520
+      ],
+      "minutes": 28,
+      "focus": "Understand reproductive hormones and systemic risks.",
+      "points": [
+        "Androgens, estrogens, and progestins are steroid hormones with reproductive and important systemic effects.",
+        "Androgens can be used for selected deficiency states; high-dose anabolic steroid use for performance carries major health risks.",
+        "Estrogen and progestin preparations are used for contraception and selected replacement or other clinical purposes.",
+        "Hormone exposure can influence bone, muscle, lipids, fluid balance, and cardiovascular or thrombotic risk depending on the agent, route, and patient.",
+        "Hormonal cancer therapies may stimulate or block selected pathways; reproductive pharmacology is broader than simple replacement.",
+        "Antiandrogens, selective estrogen-receptor modulators, and other hormone-related agents have distinct roles and risk profiles.",
+        "Hormonal effects on bone do not justify ignoring vascular symptoms or using hormone therapy as a universal musculoskeletal treatment."
+      ],
+      "drugs": [
+        {
+          "class": "Androgen-related drugs",
+          "examples": "Testosterone; anabolic derivatives; antiandrogens",
+          "mechanism": "Modify androgen signaling",
+          "watch": "Hepatic; endocrine; cardiovascular and behavioral risks vary"
+        },
+        {
+          "class": "Estrogen and progestin drugs",
+          "examples": "Contraceptive and replacement preparations",
+          "mechanism": "Modify reproductive signaling and feedback",
+          "watch": "Agent- and patient-specific thrombotic concerns"
+        },
+        {
+          "class": "Selective hormone modulators",
+          "examples": "SERMs; hormone-suppressing cancer therapies",
+          "mechanism": "Tissue-selective or suppressive endocrine actions",
+          "watch": "Bone and systemic effects differ"
+        }
+      ],
+      "rehab": [
+        "Ask about hormone products and performance-enhancing substances without assuming they are volunteered.",
+        "Escalate new unilateral swelling, chest symptoms, or other concerning vascular signs.",
+        "Assess bone and muscle effects in the context of the whole regimen."
+      ],
+      "trap": "Natural or body-identical hormone language does not establish safety for a specific person.",
+      "flashcards": [
+        {
+          "front": "Why ask about anabolic steroid use?",
+          "back": "It can affect cardiovascular, hepatic, endocrine, and behavioral health."
+        },
+        {
+          "front": "Why do hormone drugs matter to bone review?",
+          "back": "They can alter bone turnover and bone loss risk."
+        },
+        {
+          "front": "Does every estrogen-related drug have the same tissue effects?",
+          "back": "No; route, compound, and receptor selectivity differ."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a priority with new unilateral calf swelling during hormone therapy?",
+          "answer": "Assessment for a possible vascular problem",
+          "distractors": [
+            "Automatic reassurance that it is muscle growth",
+            "Aggressive massage to test the diagnosis",
+            "Assuming all hormones prevent thrombosis"
+          ],
+          "rationale": "A concerning vascular presentation requires clinical assessment rather than routine treatment."
+        },
+        {
+          "question": "Which statement about anabolic steroid misuse is sound?",
+          "answer": "Potential performance gains do not remove serious health risks",
+          "distractors": [
+            "It is safe because the body makes androgens",
+            "It cannot affect other organs",
+            "It always improves tendon integrity"
+          ],
+          "rationale": "Supraphysiological use can carry substantial systemic harms."
+        }
+      ],
+      "case": {
+        "scenario": "A patient using hormonal medication reports new one-sided leg swelling and calf discomfort.",
+        "question": "What should the reviewer teach?",
+        "answer": "Recognize a possible thrombotic warning presentation and seek appropriate assessment; do not diagnose or exclude DVT through a single stretch or symptom test."
+      }
+    },
+    {
+      "id": 31,
+      "title": "Thyroid, Parathyroid, and Bone-Mineral Drugs",
+      "section": "Endocrine",
+      "day": 5,
+      "pages": [
+        491,
+        506
+      ],
+      "pdfPages": [
+        521,
+        536
+      ],
+      "minutes": 22,
+      "focus": "Link metabolic rate, calcium balance, and fracture prevention.",
+      "points": [
+        "Thyroid T3 and T4 regulate metabolism, growth, and development. Too little or too much thyroid activity changes energy and exercise tolerance.",
+        "Levothyroxine replaces deficient thyroid hormone. Antithyroid drugs and other strategies reduce excessive thyroid activity.",
+        "Thyroid excess or excessive replacement can contribute to tachycardia, heat intolerance, and bone loss; deficiency can cause fatigue and cold intolerance.",
+        "Parathyroid hormone, vitamin D, and calcitonin participate in calcium and bone regulation through different actions.",
+        "Vitamin D supports intestinal calcium absorption. Calcium and vitamin D status are foundational considerations but do not replace all osteoporosis therapy.",
+        "Bisphosphonates reduce bone resorption; selected hormone-related and anabolic therapies act differently. Drug administration and adverse effects are agent-specific.",
+        "Bone benefit should be translated into appropriately graded loading, balance training, and fall prevention."
+      ],
+      "drugs": [
+        {
+          "class": "Thyroid agents",
+          "examples": "Levothyroxine; methimazole; propylthiouracil",
+          "mechanism": "Replace hormone or inhibit production",
+          "watch": "Under- or over-treatment; agent-specific toxicity"
+        },
+        {
+          "class": "Mineral regulators",
+          "examples": "Calcium; vitamin D; calcitonin",
+          "mechanism": "Support mineral balance or modify resorption",
+          "watch": "Excess and deficiency both matter"
+        },
+        {
+          "class": "Bone-directed therapies",
+          "examples": "Bisphosphonates; selected PTH analogs",
+          "mechanism": "Antiresorptive or anabolic mechanisms",
+          "watch": "Administration and safety requirements differ"
+        }
+      ],
+      "rehab": [
+        "Investigate unexplained changes in heat tolerance, pulse, and fatigue.",
+        "Use fracture-risk-aware exercise and fall prevention.",
+        "Do not assume normal calcium intake alone eliminates osteoporosis risk."
+      ],
+      "trap": "PTH physiology and intermittent pharmacological PTH-analog therapy cannot be reduced to one simple bone-loss rule.",
+      "flashcards": [
+        {
+          "front": "What does vitamin D facilitate?",
+          "back": "Intestinal calcium absorption and normal mineral regulation."
+        },
+        {
+          "front": "How do bisphosphonates primarily affect bone?",
+          "back": "They inhibit bone resorption."
+        },
+        {
+          "front": "What can excess thyroid hormone do to exercise response?",
+          "back": "It can increase heart rate and heat intolerance and contribute to bone loss."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug class primarily inhibits bone resorption?",
+          "answer": "Bisphosphonates",
+          "distractors": [
+            "Beta-2 agonists",
+            "Antitussives",
+            "PPIs as their primary purpose"
+          ],
+          "rationale": "Bisphosphonates reduce osteoclast-mediated resorption."
+        },
+        {
+          "question": "Which symptom pattern suggests excessive thyroid activity?",
+          "answer": "Heat intolerance with tachycardia",
+          "distractors": [
+            "Cold intolerance with slowed metabolism only",
+            "Absence of any cardiovascular effect",
+            "Selective loss of gastric acid"
+          ],
+          "rationale": "Thyroid excess increases metabolic and cardiovascular activity."
+        }
+      ],
+      "case": {
+        "scenario": "A patient on thyroid replacement develops new heat intolerance and a higher resting pulse.",
+        "question": "What should be considered?",
+        "answer": "Possible over-replacement or another medical change. Document the trend and seek review rather than attributing it solely to anxiety or training intensity."
+      }
+    },
+    {
+      "id": 32,
+      "title": "Pancreatic Hormones and Diabetes Mellitus",
+      "section": "Endocrine",
+      "day": 5,
+      "pages": [
+        507,
+        528
+      ],
+      "pdfPages": [
+        537,
+        558
+      ],
+      "minutes": 28,
+      "focus": "Connect insulin, exercise, and hypoglycemia risk.",
+      "points": [
+        "Insulin promotes glucose uptake and storage and influences fat and protein metabolism; glucagon generally helps raise blood glucose.",
+        "Type 1 diabetes involves an absolute insulin deficiency; type 2 involves insulin resistance with impaired insulin secretion.",
+        "Insulin formulations differ in onset, peak, and duration. Basal and mealtime strategies serve different purposes.",
+        "Exercise can increase muscle glucose uptake and insulin sensitivity; insulin or insulin-secretagogue exposure can increase exercise-related hypoglycemia risk, including delayed episodes.",
+        "Noninsulin drugs act through different mechanisms: secretagogues, metformin, thiazolidinediones, alpha-glucosidase inhibitors, and incretin-related agents are discussed in the chapter.",
+        "Hypoglycemia may cause sweating, tremor, confusion, behavior change, weakness, or reduced consciousness; beta blockade can obscure some warning features.",
+        "Assess footwear, sensation, vascular status, and other diabetes complications when planning activity. Medication adjustment must be individualized by the clinical team."
+      ],
+      "drugs": [
+        {
+          "class": "Insulin",
+          "examples": "Rapid-, short-, intermediate-, and long-acting preparations",
+          "mechanism": "Replaces or supplements insulin signaling",
+          "watch": "Hypoglycemia; timing and injection-site effects"
+        },
+        {
+          "class": "Secretagogues",
+          "examples": "Sulfonylureas; meglitinides",
+          "mechanism": "Increase endogenous insulin release",
+          "watch": "Hypoglycemia"
+        },
+        {
+          "class": "Other glucose-lowering drugs",
+          "examples": "Metformin; thiazolidinediones; incretin-related drugs",
+          "mechanism": "Reduce production, improve sensitivity, or change incretin action",
+          "watch": "Agent-specific GI, fluid, and other effects"
+        }
+      ],
+      "rehab": [
+        "Use the patient’s prescribed glucose and exercise safety plan.",
+        "Monitor for immediate and delayed symptoms around activity and meals.",
+        "Do not independently change insulin doses; coordinate patterns with the diabetes team."
+      ],
+      "trap": "Not every glucose-lowering drug causes the same hypoglycemia risk.",
+      "flashcards": [
+        {
+          "front": "Why can exercise lower glucose?",
+          "back": "Active muscle increases glucose uptake and insulin sensitivity can increase."
+        },
+        {
+          "front": "Which two broad medication types commonly raise hypoglycemia concern?",
+          "back": "Insulin and insulin secretagogues."
+        },
+        {
+          "front": "Can hypoglycemia occur after exercise ends?",
+          "back": "Yes; delayed episodes can occur."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which medicine type directly replaces a missing hormone in type 1 diabetes?",
+          "answer": "Insulin",
+          "distractors": [
+            "A statin",
+            "A PPI",
+            "An antihistamine"
+          ],
+          "rationale": "Insulin is required to replace deficient insulin signaling in type 1 diabetes."
+        },
+        {
+          "question": "Confusion and sweating during activity in an insulin-treated patient should prompt what?",
+          "answer": "Stop and assess for hypoglycemia using the individual safety plan",
+          "distractors": [
+            "Increase exercise immediately",
+            "Assume improved conditioning",
+            "Independently cancel all future insulin"
+          ],
+          "rationale": "The symptoms may signal low glucose and require the appropriate response."
+        }
+      ],
+      "case": {
+        "scenario": "An insulin-treated student becomes sweaty and confused during exercise.",
+        "question": "What is the immediate learning point?",
+        "answer": "Stop activity, obtain help and glucose assessment according to the safety plan, and treat the event as a possible acute metabolic problem rather than poor motivation."
+      }
+    },
+    {
+      "id": 33,
+      "title": "Treatment of Infections I: Antibacterial Drugs",
+      "section": "Infection and oncology",
+      "day": 6,
+      "pages": [
+        531,
+        556
+      ],
+      "pdfPages": [
+        561,
+        586
+      ],
+      "minutes": 28,
+      "focus": "Organize antibiotics by target and rehabilitation-relevant toxicity.",
+      "points": [
+        "Antibacterials differ in spectrum and whether they inhibit growth or kill susceptible bacteria. Culture, infection site, and resistance influence selection.",
+        "Beta-lactams and glycopeptides act on cell-wall synthesis; protein-synthesis inhibitors act at bacterial ribosomal targets.",
+        "Fluoroquinolones affect bacterial DNA enzymes; other agents target nucleic acid synthesis or folate pathways.",
+        "Resistance can arise through altered targets, drug inactivation, decreased entry, or increased efflux; broad-spectrum does not mean universally superior.",
+        "Hypersensitivity, GI disturbance, superinfection, and organ-specific toxicity can complicate treatment.",
+        "Fluoroquinolones can be associated with tendon injury. Aminoglycosides can affect hearing, vestibular function, kidneys, and neuromuscular transmission.",
+        "Some antibiotics cause photosensitivity, relevant to UV exposure and treatment modalities."
+      ],
+      "drugs": [
+        {
+          "class": "Cell-wall inhibitors",
+          "examples": "Penicillins; cephalosporins; vancomycin",
+          "mechanism": "Disrupt bacterial wall synthesis",
+          "watch": "Hypersensitivity; agent-specific renal effects"
+        },
+        {
+          "class": "Protein-synthesis inhibitors",
+          "examples": "Aminoglycosides; tetracyclines; macrolides",
+          "mechanism": "Act at bacterial ribosomal targets",
+          "watch": "Ototoxicity; interactions; photosensitivity vary"
+        },
+        {
+          "class": "Nucleic-acid and metabolic agents",
+          "examples": "Fluoroquinolones; sulfonamides",
+          "mechanism": "Alter DNA-related or folate processes",
+          "watch": "Tendon risk; photosensitivity; agent-specific effects"
+        }
+      ],
+      "rehab": [
+        "New tendon pain during fluoroquinolone exposure warrants prompt review and loading caution.",
+        "Consider vestibular drug toxicity when balance deteriorates.",
+        "Check photosensitivity concerns before ultraviolet exposure and follow infection-control measures."
+      ],
+      "trap": "Antibiotics do not treat every viral infection, and broader spectrum is not automatically better.",
+      "flashcards": [
+        {
+          "front": "Which antibiotic group is associated with tendon injury?",
+          "back": "Fluoroquinolones."
+        },
+        {
+          "front": "Why can an aminoglycoside matter in balance therapy?",
+          "back": "Vestibular toxicity can impair balance."
+        },
+        {
+          "front": "What is bacterial resistance?",
+          "back": "Reduced susceptibility to a drug through microbial adaptations."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which new symptom is especially relevant during ciprofloxacin exposure?",
+          "answer": "Achilles tendon pain",
+          "distractors": [
+            "Guaranteed increased tendon strength",
+            "Only a change in hair color",
+            "Permanent immunity to infection"
+          ],
+          "rationale": "Fluoroquinolone-related tendon injury is a key rehabilitation concern."
+        },
+        {
+          "question": "Which class can produce vestibular toxicity?",
+          "answer": "Aminoglycosides",
+          "distractors": [
+            "PPIs",
+            "Antacids",
+            "Bisphosphonates"
+          ],
+          "rationale": "Aminoglycosides can damage vestibular function and complicate balance."
+        }
+      ],
+      "case": {
+        "scenario": "A runner taking ciprofloxacin develops Achilles pain after a modest training increase.",
+        "question": "What should the learner avoid assuming?",
+        "answer": "Do not attribute it automatically to training. Consider drug-associated tendon injury, protect from provocative loading, and arrange prompt medical review."
+      }
+    },
+    {
+      "id": 34,
+      "title": "Treatment of Infections II: Antiviral Drugs",
+      "section": "Infection and oncology",
+      "day": 6,
+      "pages": [
+        557,
+        580
+      ],
+      "pdfPages": [
+        587,
+        610
+      ],
+      "minutes": 28,
+      "focus": "Match antiviral strategies to the viral life cycle.",
+      "points": [
+        "Viruses depend on host cells, making selective antiviral treatment difficult. Antivirals often inhibit specific stages of viral entry, replication, or release.",
+        "Herpesvirus drugs such as acyclovir act on viral DNA-related processes; activity depends on the virus and drug.",
+        "Influenza therapies have virus- and mechanism-specific roles; a drug for one virus does not treat all viral syndromes.",
+        "HIV therapy combines agents with different targets, including reverse transcriptase, protease, integrase, or entry-related steps.",
+        "Combination therapy and adherence reduce opportunities for resistant viral replication; resistance remains a major limitation.",
+        "Adverse effects can include fatigue, GI symptoms, neuropathy, myopathy, metabolic changes, or marrow effects depending on the agent.",
+        "Vaccination prevents selected infections through immune priming; it is not identical to directly inhibiting viral replication. The chapter’s specific regimens are historical."
+      ],
+      "drugs": [
+        {
+          "class": "Herpes and other virus-specific agents",
+          "examples": "Acyclovir; ganciclovir; selected influenza agents",
+          "mechanism": "Inhibit specific viral processes",
+          "watch": "Renal, marrow, and other effects vary"
+        },
+        {
+          "class": "Antiretrovirals",
+          "examples": "NRTIs; NNRTIs; protease; integrase; entry inhibitors",
+          "mechanism": "Target different HIV life-cycle stages",
+          "watch": "Interactions; neuropathy; metabolic or muscle effects"
+        }
+      ],
+      "rehab": [
+        "Adapt intensity to fatigue and systemic status rather than diagnosis alone.",
+        "Assess sensory loss and weakness when neuropathy or myopathy is possible.",
+        "Use appropriate infection-control practices and support adherence through the clinical team."
+      ],
+      "trap": "Antiviral activity is virus-specific; an antiviral is not a universal anti-infection drug.",
+      "flashcards": [
+        {
+          "front": "Why combine drugs in HIV treatment?",
+          "back": "Different targets suppress replication and reduce resistance opportunities."
+        },
+        {
+          "front": "Why is antiviral selectivity challenging?",
+          "back": "Viruses rely on host-cell machinery."
+        },
+        {
+          "front": "Why may an antiviral regimen affect rehabilitation?",
+          "back": "Fatigue, neuropathy, myopathy, and other adverse effects can alter function."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a key reason for combination antiretroviral therapy?",
+          "answer": "Suppress replication at multiple targets and limit resistance",
+          "distractors": [
+            "Make every viral infection immediately curable",
+            "Eliminate all drug interactions",
+            "Remove the need for adherence"
+          ],
+          "rationale": "Multiple active mechanisms reduce viral replication and resistance risk."
+        },
+        {
+          "question": "Which statement about vaccination is correct?",
+          "answer": "It primes immune protection against selected infections",
+          "distractors": [
+            "It is identical to every antiviral drug",
+            "It treats all established viral disease immediately",
+            "It has no relationship to immunity"
+          ],
+          "rationale": "Prevention through immune priming differs from direct antiviral inhibition."
+        }
+      ],
+      "case": {
+        "scenario": "A patient with HIV has new distal sensory symptoms and fatigue while receiving treatment.",
+        "question": "What should be considered?",
+        "answer": "Disease effects, opportunistic conditions, and medication effects may all contribute. Document function and coordinate assessment rather than assigning a single cause automatically."
+      }
+    },
+    {
+      "id": 35,
+      "title": "Treatment of Infections III: Antifungal and Antiparasitic Drugs",
+      "section": "Infection and oncology",
+      "day": 6,
+      "pages": [
+        581,
+        598
+      ],
+      "pdfPages": [
+        611,
+        628
+      ],
+      "minutes": 22,
+      "focus": "Distinguish fungal, protozoal, and worm targets.",
+      "points": [
+        "Antifungal, antiprotozoal, and anthelmintic agents treat different organisms; they are not interchangeable categories.",
+        "Many antifungals target ergosterol or its synthesis in fungal membranes. Echinocandins act on fungal cell-wall components.",
+        "Topical therapy can treat selected superficial infections; systemic infection often requires systemic therapy and closer toxicity monitoring.",
+        "Amphotericin B can cause renal and electrolyte problems; azoles have important hepatic and drug-interaction considerations.",
+        "Antiprotozoal treatment includes organism-specific drugs for malaria and other protozoal infections. Geography and resistance influence the appropriate regimen.",
+        "Anthelmintics act through parasite-specific metabolic or neuromuscular mechanisms; worm type and location matter.",
+        "Immunocompromised patients may have opportunistic infections and complex medication profiles."
+      ],
+      "drugs": [
+        {
+          "class": "Antifungals",
+          "examples": "Azoles; amphotericin B; echinocandins",
+          "mechanism": "Alter fungal membrane or cell-wall function",
+          "watch": "Renal; electrolyte; hepatic and interaction risks"
+        },
+        {
+          "class": "Antiprotozoals",
+          "examples": "Selected antimalarials; metronidazole",
+          "mechanism": "Organism-specific metabolic and other targets",
+          "watch": "Toxicity and resistance depend on drug"
+        },
+        {
+          "class": "Anthelmintics",
+          "examples": "Albendazole; praziquantel; ivermectin",
+          "mechanism": "Disrupt parasite metabolism or neuromuscular function",
+          "watch": "Organism- and agent-specific precautions"
+        }
+      ],
+      "rehab": [
+        "Use hygiene and equipment-cleaning measures for superficial fungal infection.",
+        "Consider electrolyte disturbance and systemic fatigue when activity tolerance worsens.",
+        "Check interactions and clinical guidance before attributing symptoms to infection alone."
+      ],
+      "trap": "A superficial infection treatment plan cannot be generalized to an invasive fungal infection.",
+      "flashcards": [
+        {
+          "front": "What fungal membrane component is a common drug target?",
+          "back": "Ergosterol or its synthesis."
+        },
+        {
+          "front": "What is an anthelmintic used against?",
+          "back": "Parasitic worms."
+        },
+        {
+          "front": "Why is amphotericin B relevant to exercise tolerance?",
+          "back": "Renal and electrolyte adverse effects may contribute to weakness and systemic symptoms."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which drug group treats parasitic worms?",
+          "answer": "Anthelmintics",
+          "distractors": [
+            "Antacids",
+            "Beta blockers",
+            "Antihistamines as their primary role"
+          ],
+          "rationale": "Anthelmintics target helminth infections."
+        },
+        {
+          "question": "Which complication is associated with amphotericin B?",
+          "answer": "Renal and electrolyte toxicity",
+          "distractors": [
+            "Guaranteed muscle hypertrophy",
+            "Permanent bronchodilation",
+            "Selective platelet production"
+          ],
+          "rationale": "Its systemic toxicity can affect hydration, electrolytes, and function."
+        }
+      ],
+      "case": {
+        "scenario": "An athlete receiving topical antifungal treatment asks about preventing spread in the training room.",
+        "question": "What belongs in the reviewer?",
+        "answer": "Follow the prescribed application plan, keep shared environments and equipment hygienic, and address moisture and skin care without sharing medication."
+      }
+    },
+    {
+      "id": 36,
+      "title": "Cancer Chemotherapy",
+      "section": "Infection and oncology",
+      "day": 6,
+      "pages": [
+        599,
+        624
+      ],
+      "pdfPages": [
+        629,
+        654
+      ],
+      "minutes": 28,
+      "focus": "Translate treatment toxicity into flexible, safe rehabilitation.",
+      "points": [
+        "Traditional antineoplastic drugs impair DNA synthesis, DNA function, or cell division; rapidly renewing normal tissues can also be harmed.",
+        "Major groups include alkylating agents, antimetabolites, antitumor antibiotics, microtubule agents, and topoisomerase inhibitors.",
+        "Cell-cycle specificity helps explain scheduling and combination strategies, but clinical regimens depend on the malignancy and patient.",
+        "Targeted, biological, and hormone-related therapies act through more selected pathways but can still cause serious toxicity.",
+        "Marrow suppression can produce anemia, neutropenia, and thrombocytopenia, affecting endurance, infection risk, and bleeding risk.",
+        "Peripheral neuropathy, fatigue, GI symptoms, and drug-specific cardiac or pulmonary toxicity can limit function.",
+        "Treatment cycles can create changing tolerance across days; decisions must use actual symptoms, blood counts, and oncology guidance rather than a universal exercise cutoff."
+      ],
+      "drugs": [
+        {
+          "class": "Cytotoxic drugs",
+          "examples": "Alkylators; antimetabolites; taxanes; vinca agents",
+          "mechanism": "Disrupt DNA processes or mitosis",
+          "watch": "Marrow suppression; neuropathy; tissue-specific toxicity"
+        },
+        {
+          "class": "Targeted and biological therapies",
+          "examples": "Selected kinase inhibitors; antibodies",
+          "mechanism": "Target selected tumor or signaling features",
+          "watch": "Serious agent-specific organ effects remain"
+        },
+        {
+          "class": "Hormone-related strategies",
+          "examples": "Antiestrogens; androgen suppression",
+          "mechanism": "Alter hormone-dependent tumor signaling",
+          "watch": "Bone; muscle; metabolic effects"
+        }
+      ],
+      "rehab": [
+        "Coordinate exercise with the oncology plan and current clinical status.",
+        "Modify contact, loading, and exposure when bleeding or infection risk is elevated.",
+        "Reassess balance, sensation, fatigue, and cardiopulmonary symptoms across treatment cycles."
+      ],
+      "trap": "Targeted therapy is not synonymous with toxicity-free therapy.",
+      "flashcards": [
+        {
+          "front": "Why does chemotherapy cause marrow suppression?",
+          "back": "Normal rapidly dividing marrow cells can also be affected."
+        },
+        {
+          "front": "How does thrombocytopenia affect rehabilitation?",
+          "back": "It raises bleeding concern and may change appropriate activity or handling."
+        },
+        {
+          "front": "Why track treatment-cycle timing?",
+          "back": "Adverse effects and capacity can fluctuate during the cycle."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which blood-cell problem most directly increases bleeding risk?",
+          "answer": "Thrombocytopenia",
+          "distractors": [
+            "Neutropenia",
+            "Anemia alone",
+            "An elevated thyroid hormone level"
+          ],
+          "rationale": "Low platelets impair hemostatic capacity."
+        },
+        {
+          "question": "What is the best basis for exercise modification during chemotherapy?",
+          "answer": "Current symptoms, clinical measures, and oncology guidance",
+          "distractors": [
+            "A single universal rule for every patient",
+            "The assumption that targeted drugs have no toxicity",
+            "Medication brand color"
+          ],
+          "rationale": "Tolerance depends on individual disease, treatment, counts, and symptoms."
+        }
+      ],
+      "case": {
+        "scenario": "A patient has greater fatigue and new distal numbness during a chemotherapy cycle.",
+        "question": "How should rehabilitation respond?",
+        "answer": "Reassess endurance, balance, sensation, and treatment-related risks, adapt tasks, and share new symptoms with the oncology team."
+      }
+    },
+    {
+      "id": 37,
+      "title": "Immunomodulating Agents",
+      "section": "Infection and oncology",
+      "day": 7,
+      "pages": [
+        625,
+        640
+      ],
+      "pdfPages": [
+        655,
+        670
+      ],
+      "minutes": 22,
+      "focus": "Contrast immune suppression and stimulation.",
+      "points": [
+        "Immune-modifying drugs may suppress harmful or unwanted immunity or enhance selected immune responses.",
+        "Immunosuppression is central to transplant rejection prevention and treatment of selected autoimmune diseases.",
+        "Glucocorticoids suppress multiple immune pathways but also have systemic catabolic and metabolic effects.",
+        "Calcineurin inhibitors, antimetabolites, mTOR-related agents, antibodies, and fusion proteins target different immune processes.",
+        "Reduced immune activity can increase infection susceptibility and some long-term risks; agent-specific renal, marrow, and other toxicity also matter.",
+        "Immunoglobulins, cytokines, and other immunostimulatory strategies have context-specific roles; stimulation is not uniformly beneficial.",
+        "Successful disease control or transplantation does not remove medication-related risks to bone, muscle, skin, and wound healing."
+      ],
+      "drugs": [
+        {
+          "class": "Immunosuppressants",
+          "examples": "Cyclosporine; tacrolimus; mycophenolate; sirolimus",
+          "mechanism": "Alter lymphocyte signaling or proliferation",
+          "watch": "Infection; renal or marrow effects vary"
+        },
+        {
+          "class": "Biological immune modifiers",
+          "examples": "Selected antibodies; fusion proteins",
+          "mechanism": "Target specific immune pathways",
+          "watch": "Infection and agent-specific immune reactions"
+        },
+        {
+          "class": "Other immune strategies",
+          "examples": "Immunoglobulins; selected cytokines",
+          "mechanism": "Modulate or augment particular responses",
+          "watch": "Systemic and indication-specific adverse effects"
+        }
+      ],
+      "rehab": [
+        "Use infection-prevention practices and promptly report signs of illness.",
+        "Address steroid-related weakness and bone vulnerability with graded rehabilitation.",
+        "Coordinate with transplant or specialty teams when exercise capacity or wound status changes."
+      ],
+      "trap": "More selective immune targeting does not eliminate infection risk.",
+      "flashcards": [
+        {
+          "front": "Why are immunosuppressants used after transplantation?",
+          "back": "To reduce immune rejection of the transplanted tissue."
+        },
+        {
+          "front": "What is a major shared concern with immune suppression?",
+          "back": "Increased susceptibility to infection."
+        },
+        {
+          "front": "Why can transplant rehabilitation involve bone and muscle precautions?",
+          "back": "Glucocorticoids and other factors can contribute to tissue loss and weakness."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a major goal of a transplant immunosuppressive regimen?",
+          "answer": "Prevent rejection",
+          "distractors": [
+            "Enhance rejection",
+            "Eliminate all need for monitoring",
+            "Guarantee immediate muscle recovery"
+          ],
+          "rationale": "Suppressing immune responses can protect the transplanted tissue."
+        },
+        {
+          "question": "Which new finding should be communicated promptly in an immunosuppressed patient?",
+          "answer": "Possible infection symptoms",
+          "distractors": [
+            "An improved walking score alone",
+            "A preference for morning exercise",
+            "A change in shoe brand"
+          ],
+          "rationale": "Reduced immune defense makes timely infection assessment important."
+        }
+      ],
+      "case": {
+        "scenario": "A transplant recipient is gaining mobility but develops fever and unusual fatigue.",
+        "question": "What takes priority?",
+        "answer": "Prompt clinical review for possible infection or another complication, followed by adjustment of rehabilitation with the specialty team."
+      }
+    },
+    {
+      "id": 38,
+      "title": "Complementary and Alternative Medications",
+      "section": "Integration",
+      "day": 7,
+      "pages": [
+        641,
+        656
+      ],
+      "pdfPages": [
+        671,
+        686
+      ],
+      "minutes": 22,
+      "focus": "Treat supplements as pharmacologically active exposures.",
+      "points": [
+        "Complementary and alternative medications include diverse herbs and nutritional supplements; products differ in evidence, purity, and formulation.",
+        "Natural origin does not establish safety, effectiveness, or consistent dosing.",
+        "Supplements may cause direct toxicity or interact with prescribed medicines through metabolic, platelet, sedative, or other mechanisms.",
+        "St. John’s wort can induce metabolism of susceptible drugs and reduce their effectiveness, including the warfarin interaction discussed in the chapter.",
+        "Ginkgo, garlic, and other products may influence bleeding-related risk; sedating products may add to CNS depressants.",
+        "Evidence should be assessed for the actual product, indication, outcomes, and safety rather than relying on testimonials or a class-wide assumption.",
+        "Ask specifically about teas, powders, sports products, vitamins, and herbs because patients may not call them medicines."
+      ],
+      "drugs": [
+        {
+          "class": "Herbal products",
+          "examples": "St. John’s wort; ginkgo; garlic",
+          "mechanism": "Different enzyme, receptor, or platelet effects",
+          "watch": "Interactions and variable composition"
+        },
+        {
+          "class": "Nutritional and performance supplements",
+          "examples": "Vitamins; minerals; mixed sports products",
+          "mechanism": "Nutrient replacement or diverse claimed actions",
+          "watch": "Dose; purity; duplication; undeclared ingredients"
+        }
+      ],
+      "rehab": [
+        "Include supplements in the medication history and share relevant interactions with the pharmacist or prescriber.",
+        "Use neutral questions to encourage accurate disclosure.",
+        "Do not recommend discontinuing or replacing a prescription based on an unverified supplement claim."
+      ],
+      "trap": "OTC and natural are access or origin descriptions, not evidence of safety.",
+      "flashcards": [
+        {
+          "front": "Why ask about herbal teas and powders?",
+          "back": "They may contain active substances and cause interactions."
+        },
+        {
+          "front": "How can St. John’s wort reduce another drug’s effect?",
+          "back": "Enzyme induction can increase metabolism of susceptible drugs."
+        },
+        {
+          "front": "What makes supplement evidence product-specific?",
+          "back": "Composition, dose, purity, and studied formulation can vary."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which assumption is unsafe?",
+          "answer": "Natural products cannot interact with prescriptions",
+          "distractors": [
+            "Supplements should be included in medication histories",
+            "Evidence can differ by product",
+            "Purity affects interpretation"
+          ],
+          "rationale": "Natural origin does not prevent pharmacological activity or interactions."
+        },
+        {
+          "question": "What can enzyme induction by St. John’s wort do to a susceptible active drug?",
+          "answer": "Reduce its exposure and effectiveness",
+          "distractors": [
+            "Guarantee a stronger effect",
+            "Make all renal clearance stop",
+            "Remove every adverse reaction"
+          ],
+          "rationale": "Increased metabolism may reduce active-drug concentration, as discussed for warfarin."
+        }
+      ],
+      "case": {
+        "scenario": "A patient taking warfarin starts St. John’s wort and does not list it as medication.",
+        "question": "What should the reviewer emphasize?",
+        "answer": "Record the supplement and flag the interaction for prompt pharmacist or prescriber review; changes in exposure can undermine anticoagulation even without obvious immediate symptoms."
+      }
+    }
+  ],
+  "days": [
+    {
+      "id": 1,
+      "title": "Build the foundation",
+      "subtitle": "From dose to receptor to brain",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "review": [],
+      "goal": "Explain potency, exposure, clearance, receptors, and CNS signaling without notes.",
+      "newMinutes": 110,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 170
+    },
+    {
+      "id": 2,
+      "title": "Master the nervous system",
+      "subtitle": "Sleep, mood, seizures, and movement",
+      "chapters": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "review": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "goal": "Compare CNS drug classes and recognize sedation, motor effects, and fluctuations.",
+      "newMinutes": 110,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 170
+    },
+    {
+      "id": 3,
+      "title": "Control pain. Protect function.",
+      "subtitle": "Anesthesia, muscle, and inflammation",
+      "chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "review": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "goal": "Distinguish analgesia from anesthesia, tone reduction, and disease modification.",
+      "newMinutes": 166,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 226
+    },
+    {
+      "id": 4,
+      "title": "Follow the receptors to the heart",
+      "subtitle": "Autonomic and cardiovascular drugs",
+      "chapters": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "review": [
+        1,
+        3,
+        4,
+        13,
+        14,
+        15
+      ],
+      "goal": "Predict blood-pressure, pulse, airway, bleeding, and exercise-response changes.",
+      "newMinutes": 188,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 248
+    },
+    {
+      "id": 5,
+      "title": "Connect the body systems",
+      "subtitle": "Airways, digestion, and hormones",
+      "chapters": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "review": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "goal": "Distinguish airway rescue from control and explain steroid, bone, and glucose effects.",
+      "newMinutes": 172,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 232
+    },
+    {
+      "id": 6,
+      "title": "Treat the cause. Track the cost.",
+      "subtitle": "Infection and oncology",
+      "chapters": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "review": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "goal": "Organize anti-infective and anticancer drugs by target and functional toxicity.",
+      "newMinutes": 106,
+      "recallMinutes": 25,
+      "practiceMinutes": 35,
+      "totalMinutes": 166
+    },
+    {
+      "id": 7,
+      "title": "Integrate, retrieve, repeat",
+      "subtitle": "Immunity, supplements, and final review",
+      "chapters": [
+        37,
+        38
+      ],
+      "review": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "goal": "Connect all systems, complete the mixed exam, and revisit your weakest chapters.",
+      "newMinutes": 44,
+      "recallMinutes": 45,
+      "practiceMinutes": 60,
+      "totalMinutes": 149
+    }
+  ],
+  "appendices": [
+    {
+      "id": "A",
+      "title": "Iontophoresis and phonophoresis",
+      "pages": [
+        657,
+        658
+      ],
+      "points": [
+        "Delivery depends on the drug, formulation, tissue, and physical method; do not assume every topical product is suitable.",
+        "Review polarity and compatibility for iontophoresis and the evidence for local delivery rather than memorizing a device setting.",
+        "Use authorized orders and local policy; screen skin integrity, sensation, contraindications, and drug-specific precautions."
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Drugs of abuse",
+      "pages": [
+        659,
+        660
+      ],
+      "points": [
+        "Recognize that stimulants, depressants, opioids, cannabinoids, and other substances have distinct effects and withdrawal patterns.",
+        "Ask nonjudgmentally about exposures that can affect alertness, cardiovascular response, balance, and interactions.",
+        "Escalate intoxication or severe withdrawal concerns through the appropriate clinical pathway."
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Case-study consolidation",
+      "pages": [
+        661,
+        672
+      ],
+      "points": [
+        "Use the book’s case answers to check your reasoning after attempting each case independently.",
+        "This site uses newly written study scenarios, rather than reproducing the book’s case questions or answer key.",
+        "For any scenario, explain the mechanism, identify the functional consequence, and choose the appropriate monitoring or escalation response."
+      ]
+    }
+  ]
+}

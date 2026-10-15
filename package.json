@@ -1,0 +1,28 @@
+{
+  "name": "rehabpharm-reviewer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/check-content.mjs && next build",
+    "start": "next start",
+    "preview:study": "node scripts/preview-study.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check public/app.js && node --check public/core.mjs && node scripts/check-content.mjs",
+    "content": "python3 scripts/write-content.py",
+    "build:agent": "eve build"
+  },
+  "dependencies": {
+    "ai": "7.0.141",
+    "eve": "0.79.1",
+    "just-bash": "3.1.0",
+    "next": "16.4.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "4.6.7"
+  }
+}
